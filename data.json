@@ -1,0 +1,1771 @@
+[
+    {
+        "name": "三亚",
+        "latitude": 18.25,
+        "longitude": 109.5,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.05, "yearRate": -0.42, "price": 24096 },
+            { "month": "2024年03月", "monthRate": -0.53, "yearRate": -0.49, "price": 24084 },
+            { "month": "2024年02月", "monthRate": 0.07, "yearRate": 0.03, "price": 24212 },
+            { "month": "2024年01月", "monthRate": 0.04, "yearRate": -0.02, "price": 24196 },
+            { "month": "2023年12月", "monthRate": 0.06, "yearRate": -0.18, "price": 24186 },
+            { "month": "2023年11月", "monthRate": -0.01, "yearRate": -0.31, "price": 24171 },
+            { "month": "2023年10月", "monthRate": -0.03, "yearRate": -0.30, "price": 24174 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": -0.33, "price": 24180 },
+            { "month": "2023年08月", "monthRate": -0.02, "yearRate": -0.35, "price": 24181 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.35, "price": 24186 },
+            { "month": "2023年06月", "monthRate": 0, "yearRate": -0.22, "price": 24181 },
+            { "month": "2023年05月", "monthRate": -0.07, "yearRate": -0.35, "price": 24181 }
+        ]
+    },
+    {
+        "name": "上海",
+        "latitude": 31.2304,
+        "longitude": 121.4737,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.71, "yearRate": 3.03, "price": 52677 },
+            { "month": "2024年03月", "monthRate": 1.09, "yearRate": 2.36, "price": 52305 },
+            { "month": "2024年02月", "monthRate": 0.26, "yearRate": 1.36, "price": 51739 },
+            { "month": "2024年01月", "monthRate": 0.23, "yearRate": 1.13, "price": 51606 },
+            { "month": "2023年12月", "monthRate": 0.25, "yearRate": 0.94, "price": 51490 },
+            { "month": "2023年11月", "monthRate": 0.10, "yearRate": 0.70, "price": 51360 },
+            { "month": "2023年10月", "monthRate": 0.22, "yearRate": 0.60, "price": 51311 },
+            { "month": "2023年09月", "monthRate": 0.03, "yearRate": 0.34, "price": 51200 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": 0.16, "price": 51184 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.05, "price": 51180 },
+            { "month": "2023年06月", "monthRate": 0.05, "yearRate": -0.57, "price": 51171 },
+            { "month": "2023年05月", "monthRate": 0.04, "yearRate": -0.75, "price": 51145 }
+        ]
+    },
+    {
+        "name": "东莞",
+        "latitude": 23.0489,
+        "longitude": 113.7518,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.04, "yearRate": -0.33, "price": 19271 },
+            { "month": "2024年03月", "monthRate": -0.04, "yearRate": -0.27, "price": 19279 },
+            { "month": "2024年02月", "monthRate": -0.05, "yearRate": -0.28, "price": 19286 },
+            { "month": "2024年01月", "monthRate": 0.08, "yearRate": -0.29, "price": 19296 },
+            { "month": "2023年12月", "monthRate": 0.07, "yearRate": -0.41, "price": 19280 },
+            { "month": "2023年11月", "monthRate": -0.12, "yearRate": -0.91, "price": 19266 },
+            { "month": "2023年10月", "monthRate": 0.17, "yearRate": -1.28, "price": 19289 },
+            { "month": "2023年09月", "monthRate": -0.20, "yearRate": -1.43, "price": 19257 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": -1.29, "price": 19296 },
+            { "month": "2023年07月", "monthRate": -0.15, "yearRate": -1.16, "price": 19290 },
+            { "month": "2023年06月", "monthRate": 0.05, "yearRate": -0.96, "price": 19320 },
+            { "month": "2023年05月", "monthRate": -0.12, "yearRate": -0.99, "price": 19310 }
+        ]
+    },
+    {
+        "name": "东营",
+        "latitude": 37.4613,
+        "longitude": 118.4963,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": 0.02, "price": 6002 },
+            { "month": "2024年03月", "monthRate": 0.00, "yearRate": 0.02, "price": 6002 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": 0.03, "price": 6002 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": 0.03, "price": 6002 },
+            { "month": "2023年12月", "monthRate": -0.03, "yearRate": 0.05, "price": 6003 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": 0.03, "price": 6005 },
+            { "month": "2023年10月", "monthRate": 0.02, "yearRate": 0.03, "price": 6005 },
+            { "month": "2023年09月", "monthRate": 0.02, "yearRate": 0.02, "price": 6004 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": 0.00, "price": 6003 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.10, "price": 6003 },
+            { "month": "2023年06月", "monthRate": 0.03, "yearRate": -0.13, "price": 6003 },
+            { "month": "2023年05月", "monthRate": 0.00, "yearRate": -0.17, "price": 6001 }
+        ]
+    },
+    {
+        "name": "中山",
+        "latitude": 22.5211,
+        "longitude": 113.3926,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.25, "yearRate": -0.18, "price": 10245 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": -0.50, "price": 10219 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": -0.55, "price": 10221 },
+            { "month": "2024年01月", "monthRate": 0.13, "yearRate": -0.52, "price": 10223 },
+            { "month": "2023年12月", "monthRate": -0.02, "yearRate": -0.86, "price": 10210 },
+            { "month": "2023年11月", "monthRate": -0.04, "yearRate": -1.59, "price": 10212 },
+            { "month": "2023年10月", "monthRate": -0.14, "yearRate": -2.98, "price": 10216 },
+            { "month": "2023年09月", "monthRate": -0.12, "yearRate": -3.54, "price": 10231 },
+            { "month": "2023年08月", "monthRate": -0.10, "yearRate": -3.58, "price": 10243 },
+            { "month": "2023年07月", "monthRate": -0.06, "yearRate": -3.68, "price": 10253 },
+            { "month": "2023年06月", "monthRate": -0.05, "yearRate": -3.65, "price": 10259 },
+            { "month": "2023年05月", "monthRate": 0.01, "yearRate": -3.59, "price": 10264 }
+        ]
+    },
+    {
+        "name": "临沂",
+        "latitude": 35.0631,
+        "longitude": 118.3426,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.02, "yearRate": -0.10, "price": 9703 },
+            { "month": "2024年03月", "monthRate": -0.01, "yearRate": -0.08, "price": 9705 },
+            { "month": "2024年02月", "monthRate": -0.05, "yearRate": -0.07, "price": 9706 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -0.22, "price": 9711 },
+            { "month": "2023年12月", "monthRate": 0, "yearRate": -0.22, "price": 9711 },
+            { "month": "2023年11月", "monthRate": 0, "yearRate": -0.22, "price": 9711 },
+            { "month": "2023年10月", "monthRate": 0, "yearRate": -0.22, "price": 9711 },
+            { "month": "2023年09月", "monthRate": -0.01, "yearRate": -0.28, "price": 9711 },
+            { "month": "2023年08月", "monthRate": -0.02, "yearRate": -0.27, "price": 9712 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.23, "price": 9714 },
+            { "month": "2023年06月", "monthRate": 0, "yearRate": -0.24, "price": 9713 },
+            { "month": "2023年05月", "monthRate": 0, "yearRate": -0.24, "price": 9713 }
+        ]
+    },
+    {
+        "name": "乌鲁木齐",
+        "latitude": 43.8256,
+        "longitude": 87.6168,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.02, "yearRate": 0.32, "price": 8240 },
+            { "month": "2024年03月", "monthRate": 0.06, "yearRate": 0.29, "price": 8238 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": 0.26, "price": 8233 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": 0.29, "price": 8235 },
+            { "month": "2023年12月", "monthRate": 0.05, "yearRate": 0.28, "price": 8237 },
+            { "month": "2023年11月", "monthRate": 0.02, "yearRate": 0.23, "price": 8233 },
+            { "month": "2023年10月", "monthRate": 0.04, "yearRate": 0.21, "price": 8231 },
+            { "month": "2023年09月", "monthRate": 0.13, "yearRate": 0.12, "price": 8228 },
+            { "month": "2023年08月", "monthRate": -0.04, "yearRate": -0.01, "price": 8217 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": 0.09, "price": 8220 },
+            { "month": "2023年06月", "monthRate": 0.02, "yearRate": 0.04, "price": 8219 },
+            { "month": "2023年05月", "monthRate": 0.04, "yearRate": 0.12, "price": 8217 }
+        ]
+        
+    },
+    {
+        "name": "佛山",
+        "latitude": 23.0268,
+        "longitude": 113.1347,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.29, "yearRate": 0.54, "price": 13930 },
+            { "month": "2024年03月", "monthRate": 0.14, "yearRate": 0.21, "price": 13889 },
+            { "month": "2024年02月", "monthRate": 0.02, "yearRate": 0.09, "price": 13870 },
+            { "month": "2024年01月", "monthRate": -0.03, "yearRate": 0.05, "price": 13867 },
+            { "month": "2023年12月", "monthRate": 0.06, "yearRate": -0.04, "price": 13872 },
+            { "month": "2023年11月", "monthRate": -0.03, "yearRate": -0.27, "price": 13864 },
+            { "month": "2023年10月", "monthRate": 0.01, "yearRate": -0.37, "price": 13868 },
+            { "month": "2023年09月", "monthRate": 0.07, "yearRate": -0.64, "price": 13866 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -0.64, "price": 13857 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.57, "price": 13855 },
+            { "month": "2023年06月", "monthRate": -0.01, "yearRate": -0.59, "price": 13852 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -0.54, "price": 13854 }
+        ]
+        
+    },
+    {
+        "name": "保定",
+        "latitude": 38.8676,
+        "longitude": 115.4708,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.03, "yearRate": -0.01, "price": 8867 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": -0.03, "price": 8864 },
+            { "month": "2024年02月", "monthRate": 0, "yearRate": -0.03, "price": 8864 },
+            { "month": "2024年01月", "monthRate": 0.01, "yearRate": -0.03, "price": 8864 },
+            { "month": "2023年12月", "monthRate": 0.05, "yearRate": -0.05, "price": 8863 },
+            { "month": "2023年11月", "monthRate": 0, "yearRate": -0.15, "price": 8859 },
+            { "month": "2023年10月", "monthRate": 0.02, "yearRate": -0.14, "price": 8859 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": -0.12, "price": 8857 },
+            { "month": "2023年08月", "monthRate": 0, "yearRate": -0.09, "price": 8857 },
+            { "month": "2023年07月", "monthRate": 0, "yearRate": -0.33, "price": 8857 },
+            { "month": "2023年06月", "monthRate": -0.11, "yearRate": -0.29, "price": 8857 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -0.29, "price": 8867 }
+        ]
+        
+    },
+    {
+        "name": "全国(百城)",
+        "latitude": 35.8617,
+        "longitude": 104.1954,
+        "monthRate": 0.27,
+        "yearRate": 1.08,
+        "price": 16355
+    },
+    {
+        "name": "兰州",
+        "latitude": 36.0544,
+        "longitude": 103.8204,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.02, "yearRate": -0.52, "price": 9021 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": -0.63, "price": 9023 },
+            { "month": "2024年02月", "monthRate": -0.01, "yearRate": -0.65, "price": 9025 },
+            { "month": "2024年01月", "monthRate": 0.01, "yearRate": -0.64, "price": 9026 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.66, "price": 9025 },
+            { "month": "2023年11月", "monthRate": -0.03, "yearRate": -0.80, "price": 9026 },
+            { "month": "2023年10月", "monthRate": -0.08, "yearRate": -0.94, "price": 9029 },
+            { "month": "2023年09月", "monthRate": -0.02, "yearRate": -0.89, "price": 9036 },
+            { "month": "2023年08月", "monthRate": -0.08, "yearRate": -1.06, "price": 9038 },
+            { "month": "2023年07月", "monthRate": -0.02, "yearRate": -1.08, "price": 9045 },
+            { "month": "2023年06月", "monthRate": -0.10, "yearRate": -1.08, "price": 9047 },
+            { "month": "2023年05月", "monthRate": -0.13, "yearRate": -0.96, "price": 9056 }
+        ]
+        
+    },
+    {
+        "name": "包头",
+        "latitude": 40.6579,
+        "longitude": 109.8401,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0, "yearRate": -0.17, "price": 6425 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": -0.17, "price": 6425 },
+            { "month": "2024年02月", "monthRate": -0.03, "yearRate": -0.16, "price": 6425 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -0.12, "price": 6427 },
+            { "month": "2023年12月", "monthRate": 0, "yearRate": -0.23, "price": 6427 },
+            { "month": "2023年11月", "monthRate": 0.02, "yearRate": -0.33, "price": 6427 },
+            { "month": "2023年10月", "monthRate": -0.02, "yearRate": -0.39, "price": 6426 },
+            { "month": "2023年09月", "monthRate": -0.02, "yearRate": -0.37, "price": 6427 },
+            { "month": "2023年08月", "monthRate": 0, "yearRate": -0.36, "price": 6428 },
+            { "month": "2023年07月", "monthRate": -0.02, "yearRate": -0.57, "price": 6428 },
+            { "month": "2023年06月", "monthRate": 0, "yearRate": -0.62, "price": 6429 },
+            { "month": "2023年05月", "monthRate": -0.11, "yearRate": -0.94, "price": 6429 }
+        ]
+        
+    },
+    {
+        "name": "北京",
+        "latitude": 39.9042,
+        "longitude": 116.4074,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.51, "yearRate": 1.72, "price": 45489 },
+            { "month": "2024年03月", "monthRate": 0.28, "yearRate": 1.23, "price": 45259 },
+            { "month": "2024年02月", "monthRate": 0.17, "yearRate": 0.98, "price": 45131 },
+            { "month": "2024年01月", "monthRate": 0.14, "yearRate": 0.83, "price": 45054 },
+            { "month": "2023年12月", "monthRate": 0.17, "yearRate": 0.69, "price": 44990 },
+            { "month": "2023年11月", "monthRate": 0.06, "yearRate": 0.47, "price": 44912 },
+            { "month": "2023年10月", "monthRate": 0.11, "yearRate": 0.45, "price": 44886 },
+            { "month": "2023年09月", "monthRate": 0.13, "yearRate": 0.40, "price": 44837 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": 0.38, "price": 44780 },
+            { "month": "2023年07月", "monthRate": 0.04, "yearRate": 0.39, "price": 44767 },
+            { "month": "2023年06月", "monthRate": 0.03, "yearRate": 0.62, "price": 44748 },
+            { "month": "2023年05月", "monthRate": 0.04, "yearRate": 0.65, "price": 44735 }
+        ]
+        
+    },
+    {
+        "name": "北海",
+        "latitude": 21.4733,
+        "longitude": 109.1202,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.01, "yearRate": -0.35, "price": 7865 },
+            { "month": "2024年03月", "monthRate": 0.04, "yearRate": -0.37, "price": 7866 },
+            { "month": "2024年02月", "monthRate": 0.01, "yearRate": -0.41, "price": 7863 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -0.41, "price": 7862 },
+            { "month": "2023年12月", "monthRate": 0.04, "yearRate": -0.41, "price": 7862 },
+            { "month": "2023年11月", "monthRate": -0.13, "yearRate": -0.46, "price": 7859 },
+            { "month": "2023年10月", "monthRate": -0.32, "yearRate": -0.34, "price": 7869 },
+            { "month": "2023年09月", "monthRate": -0.03, "yearRate": -0.03, "price": 7894 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": -0.16, "price": 7896 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.34, "price": 7894 },
+            { "month": "2023年06月", "monthRate": 0, "yearRate": -0.40, "price": 7893 },
+            { "month": "2023年05月", "monthRate": 0, "yearRate": -0.35, "price": 7893 }
+        ]
+        
+    },
+    {
+        "name": "南京",
+        "latitude": 32.0603,
+        "longitude": 118.7969,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.41, "yearRate": 1.85, "price": 25208 },
+            { "month": "2024年03月", "monthRate": 0.10, "yearRate": 1.45, "price": 25106 },
+            { "month": "2024年02月", "monthRate": -0.04, "yearRate": 1.42, "price": 25080 },
+            { "month": "2024年01月", "monthRate": 0.26, "yearRate": 1.53, "price": 25091 },
+            { "month": "2023年12月", "monthRate": 0.35, "yearRate": 1.27, "price": 25027 },
+            { "month": "2023年11月", "monthRate": 0.39, "yearRate": 0.86, "price": 24940 },
+            { "month": "2023年10月", "monthRate": 0.25, "yearRate": 0.41, "price": 24844 },
+            { "month": "2023年09月", "monthRate": 0.07, "yearRate": 0.07, "price": 24782 },
+            { "month": "2023年08月", "monthRate": 0.02, "yearRate": -0.02, "price": 24764 },
+            { "month": "2023年07月", "monthRate": -0.05, "yearRate": 0.26, "price": 24758 },
+            { "month": "2023年06月", "monthRate": 0.15, "yearRate": 0.60, "price": 24770 },
+            { "month": "2023年05月", "monthRate": -0.07, "yearRate": 0.66, "price": 24734 }
+        ]
+        
+    },
+    {
+        "name": "南宁",
+        "latitude": 22.8174,
+        "longitude": 108.3333,
+        "monthRate": -0.01,
+        "yearRate": -0.25,
+        "price": 11142
+    },
+    {
+        "name": "南昌",
+        "latitude": 28.6829,
+        "longitude": 115.8582,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.21, "yearRate": -0.32, "price": 12464 },
+            { "month": "2024年03月", "monthRate": 0.06, "yearRate": -0.54, "price": 12438 },
+            { "month": "2024年02月", "monthRate": 0.02, "yearRate": -0.62, "price": 12430 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.66, "price": 12428 },
+            { "month": "2023年12月", "monthRate": -0.11, "yearRate": -0.63, "price": 12431 },
+            { "month": "2023年11月", "monthRate": 0.02, "yearRate": -0.69, "price": 12445 },
+            { "month": "2023年10月", "monthRate": -0.07, "yearRate": -0.77, "price": 12443 },
+            { "month": "2023年09月", "monthRate": -0.32, "yearRate": -0.84, "price": 12452 },
+            { "month": "2023年08月", "monthRate": -0.05, "yearRate": -0.54, "price": 12492 },
+            { "month": "2023年07月", "monthRate": -0.02, "yearRate": -0.64, "price": 12498 },
+            { "month": "2023年06月", "monthRate": -0.01, "yearRate": -0.61, "price": 12500 },
+            { "month": "2023年05月", "monthRate": -0.02, "yearRate": -0.72, "price": 12501 }
+        ]
+        
+    },
+    {
+        "name": "南通",
+        "latitude": 32.0162,
+        "longitude": 120.8191,
+        "monthRate": 0.02,
+        "yearRate": 0.37,
+        "price": 14682
+    },
+    {
+        "name": "厦门",
+        "latitude": 24.4795,
+        "longitude": 118.0894,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.03, "yearRate": -0.26, "price": 29157 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": -0.30, "price": 29149 },
+            { "month": "2024年02月", "monthRate": 0.02, "yearRate": -0.28, "price": 29150 },
+            { "month": "2024年01月", "monthRate": -0.72, "yearRate": -0.29, "price": 29145 },
+            { "month": "2023年12月", "monthRate": -0.02, "yearRate": 0.41, "price": 29356 },
+            { "month": "2023年11月", "monthRate": 0.19, "yearRate": 0.44, "price": 29363 },
+            { "month": "2023年10月", "monthRate": 0.13, "yearRate": 0.24, "price": 29308 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": 0.08, "price": 29269 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": 0.11, "price": 29269 },
+            { "month": "2023年07月", "monthRate": 0, "yearRate": 0.19, "price": 29260 },
+            { "month": "2023年06月", "monthRate": 0.05, "yearRate": 0.29, "price": 29260 },
+            { "month": "2023年05月", "monthRate": 0.05, "yearRate": 0.23, "price": 29246 }
+        ]
+        
+    },
+    {
+        "name": "台州",
+        "latitude": 28.6688,
+        "longitude": 121.4296,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.60, "yearRate": 0.95, "price": 14014 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": 0.35, "price": 13930 },
+            { "month": "2024年02月", "monthRate": -0.03, "yearRate": 0.37, "price": 13930 },
+            { "month": "2024年01月", "monthRate": 0.04, "yearRate": 0.40, "price": 13934 },
+            { "month": "2023年12月", "monthRate": 0.19, "yearRate": 0.25, "price": 13928 },
+            { "month": "2023年11月", "monthRate": 0.04, "yearRate": 0.06, "price": 13901 },
+            { "month": "2023年10月", "monthRate": 0.01, "yearRate": 0.05, "price": 13895 },
+            { "month": "2023年09月", "monthRate": 0.02, "yearRate": -0.01, "price": 13893 },
+            { "month": "2023年08月", "monthRate": 0.02, "yearRate": -0.01, "price": 13890 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.14, "price": 13887 },
+            { "month": "2023年06月", "monthRate": 0.03, "yearRate": -0.01, "price": 13886 },
+            { "month": "2023年05月", "monthRate": 0, "yearRate": 0.06, "price": 13882 }
+        ]
+        
+    },
+    {
+        "name": "合肥",
+        "latitude": 31.8257,
+        "longitude": 117.2264,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.54, "yearRate": 1.79, "price": 14212 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": 1.36, "price": 14135 },
+            { "month": "2024年02月", "monthRate": -0.13, "yearRate": 1.46, "price": 14138 },
+            { "month": "2024年01月", "monthRate": 0.12, "yearRate": 1.59, "price": 14157 },
+            { "month": "2023年12月", "monthRate": 0.20, "yearRate": 1.39, "price": 14140 },
+            { "month": "2023年11月", "monthRate": 0.31, "yearRate": 1.07, "price": 14112 },
+            { "month": "2023年10月", "monthRate": 0.30, "yearRate": 0.77, "price": 14069 },
+            { "month": "2023年09月", "monthRate": 0.22, "yearRate": 0.78, "price": 14027 },
+            { "month": "2023年08月", "monthRate": 0.10, "yearRate": 0.69, "price": 13996 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": 0.92, "price": 13982 },
+            { "month": "2023年06月", "monthRate": 0.02, "yearRate": 1.11, "price": 13979 },
+            { "month": "2023年05月", "monthRate": 0.10, "yearRate": 1.19, "price": 13976 }
+        ]
+        
+    },
+    {
+        "name": "呼和浩特",
+        "latitude": 40.8106,
+        "longitude": 111.6522,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0, "yearRate": -0.14, "price": 8616 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": -0.13, "price": 8616 },
+            { "month": "2024年02月", "monthRate": -0.25, "yearRate": -0.10, "price": 8618 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": 0.16, "price": 8640 },
+            { "month": "2023年12月", "monthRate": 0, "yearRate": 0.15, "price": 8640 },
+            { "month": "2023年11月", "monthRate": 0.03, "yearRate": 0.12, "price": 8640 },
+            { "month": "2023年10月", "monthRate": 0.09, "yearRate": 0.08, "price": 8637 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": -0.08, "price": 8629 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -0.09, "price": 8629 },
+            { "month": "2023年07月", "monthRate": -0.02, "yearRate": -0.29, "price": 8628 },
+            { "month": "2023年06月", "monthRate": 0.02, "yearRate": -0.35, "price": 8630 },
+            { "month": "2023年05月", "monthRate": 0, "yearRate": -0.37, "price": 8628 }
+        ]
+        
+    },
+    {
+        "name": "哈尔滨",
+        "latitude": 45.8038,
+        "longitude": 126.5327,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0, "yearRate": -1.13, "price": 9078 },
+            { "month": "2024年03月", "monthRate": 0.03, "yearRate": -1.19, "price": 9078 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": -1.33, "price": 9075 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -1.61, "price": 9077 },
+            { "month": "2023年12月", "monthRate": -0.02, "yearRate": -2.15, "price": 9077 },
+            { "month": "2023年11月", "monthRate": -0.02, "yearRate": -2.91, "price": 9079 },
+            { "month": "2023年10月", "monthRate": 0, "yearRate": -3.87, "price": 9081 },
+            { "month": "2023年09月", "monthRate": -0.01, "yearRate": -4.07, "price": 9081 },
+            { "month": "2023年08月", "monthRate": -0.06, "yearRate": -4.48, "price": 9082 },
+            { "month": "2023年07月", "monthRate": -0.48, "yearRate": -4.83, "price": 9087 },
+            { "month": "2023年06月", "monthRate": -0.56, "yearRate": -4.88, "price": 9131 },
+            { "month": "2023年05月", "monthRate": 0, "yearRate": -4.35, "price": 9182 }
+        ]
+        
+    },
+    {
+        "name": "唐山",
+        "latitude": 39.6337,
+        "longitude": 118.1809,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.13, "yearRate": -0.12, "price": 8584 },
+            { "month": "2024年03月", "monthRate": 0.04, "yearRate": -0.31, "price": 8573 },
+            { "month": "2024年02月", "monthRate": 0, "yearRate": -0.33, "price": 8570 },
+            { "month": "2024年01月", "monthRate": -0.01, "yearRate": -0.34, "price": 8570 },
+            { "month": "2023年12月", "monthRate": -0.02, "yearRate": -0.36, "price": 8571 },
+            { "month": "2023年11月", "monthRate": -0.05, "yearRate": -0.42, "price": 8573 },
+            { "month": "2023年10月", "monthRate": -0.13, "yearRate": -0.39, "price": 8577 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": -0.29, "price": 8588 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -0.26, "price": 8588 },
+            { "month": "2023年07月", "monthRate": -0.03, "yearRate": -0.37, "price": 8587 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.27, "price": 8590 },
+            { "month": "2023年05月", "monthRate": -0.02, "yearRate": -0.16, "price": 8592 }
+        ]
+        
+    },
+    {
+        "name": "嘉兴",
+        "latitude": 30.7627,
+        "longitude": 120.7538,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.02, "yearRate": 0.52, "price": 13533 },
+            { "month": "2024年03月", "monthRate": 0.22, "yearRate": 0.56, "price": 13536 },
+            { "month": "2024年02月", "monthRate": 0.05, "yearRate": 0.34, "price": 13506 },
+            { "month": "2024年01月", "monthRate": 0.06, "yearRate": 0.29, "price": 13499 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": 0.23, "price": 13491 },
+            { "month": "2023年11月", "monthRate": 0.04, "yearRate": 0.24, "price": 13492 },
+            { "month": "2023年10月", "monthRate": 0.08, "yearRate": 0.19, "price": 13486 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": 0.11, "price": 13475 },
+            { "month": "2023年08月", "monthRate": 0.06, "yearRate": 0.16, "price": 13474 },
+            { "month": "2023年07月", "monthRate": 0.03, "yearRate": -0.02, "price": 13466 },
+            { "month": "2023年06月", "monthRate": 0.04, "yearRate": 0.16, "price": 13462 },
+            { "month": "2023年05月", "monthRate": -0.04, "yearRate": 0.34, "price": 13457 }
+        ]
+        
+    },
+    {
+        "name": "大连",
+        "latitude": 38.9140,
+        "longitude": 121.6147,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.05, "yearRate": -1.46, "price": 13547 },
+            { "month": "2024年03月", "monthRate": -0.07, "yearRate": -1.47, "price": 13554 },
+            { "month": "2024年02月", "monthRate": -0.05, "yearRate": -1.42, "price": 13564 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -1.42, "price": 13571 },
+            { "month": "2023年12月", "monthRate": -1.11, "yearRate": -1.42, "price": 13571 },
+            { "month": "2023年11月", "monthRate": -0.02, "yearRate": -0.51, "price": 13724 },
+            { "month": "2023年10月", "monthRate": -0.21, "yearRate": -1.00, "price": 13727 },
+            { "month": "2023年09月", "monthRate": 0.07, "yearRate": -0.79, "price": 13756 },
+            { "month": "2023年08月", "monthRate": 0, "yearRate": -0.87, "price": 13747 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.88, "price": 13747 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.94, "price": 13744 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -0.97, "price": 13747 }
+        ]
+        
+    },
+    {
+        "name": "天津",
+        "latitude": 39.3434,
+        "longitude": 117.3616,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.01, "yearRate": 1.27, "price": 15103 },
+            { "month": "2024年03月", "monthRate": 0.12, "yearRate": 1.33, "price": 15105 },
+            { "month": "2024年02月", "monthRate": 0.64, "yearRate": 1.23, "price": 15088 },
+            { "month": "2024年01月", "monthRate": 0.31, "yearRate": 0.57, "price": 14991 },
+            { "month": "2023年12月", "monthRate": 0.07, "yearRate": 0.18, "price": 14944 },
+            { "month": "2023年11月", "monthRate": 0.03, "yearRate": -0.09, "price": 14934 },
+            { "month": "2023年10月", "monthRate": 0.07, "yearRate": -0.20, "price": 14929 },
+            { "month": "2023年09月", "monthRate": 0.11, "yearRate": -0.35, "price": 14919 },
+            { "month": "2023年08月", "monthRate": -0.12, "yearRate": -0.57, "price": 14902 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.61, "price": 14920 },
+            { "month": "2023年06月", "monthRate": 0.01, "yearRate": -0.80, "price": 14919 },
+            { "month": "2023年05月", "monthRate": 0.03, "yearRate": -0.77, "price": 14918 }
+        ]
+        
+    },
+    {
+        "name": "太原",
+        "latitude": 37.8706,
+        "longitude": 112.5481,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.02, "yearRate": 0.07, "price": 10041 },
+            { "month": "2024年03月", "monthRate": 0.04, "yearRate": -0.02, "price": 10039 },
+            { "month": "2024年02月", "monthRate": 0.02, "yearRate": -0.04, "price": 10035 },
+            { "month": "2024年01月", "monthRate": 0.01, "yearRate": -0.14, "price": 10033 },
+            { "month": "2023年12月", "monthRate": -0.03, "yearRate": -0.28, "price": 10032 },
+            { "month": "2023年11月", "monthRate": -0.06, "yearRate": -0.44, "price": 10035 },
+            { "month": "2023年10月", "monthRate": 0.11, "yearRate": -0.48, "price": 10041 },
+            { "month": "2023年09月", "monthRate": 0.02, "yearRate": -0.54, "price": 10030 },
+            { "month": "2023年08月", "monthRate": 0.02, "yearRate": -0.52, "price": 10028 },
+            { "month": "2023年07月", "monthRate": -0.05, "yearRate": -0.52, "price": 10026 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.21, "price": 10031 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -0.29, "price": 10033 }
+        ]
+        
+    },
+    {
+        "name": "威海",
+        "latitude": 37.5097,
+        "longitude": 122.1136,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0, "yearRate": -0.05, "price": 8801 },
+            { "month": "2024年03月", "monthRate": 0.25, "yearRate": -0.10, "price": 8801 },
+            { "month": "2024年02月", "monthRate": 0.03, "yearRate": -0.35, "price": 8779 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -0.39, "price": 8776 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.44, "price": 8776 },
+            { "month": "2023年11月", "monthRate": -0.02, "yearRate": -0.43, "price": 8777 },
+            { "month": "2023年10月", "monthRate": -0.05, "yearRate": -0.80, "price": 8779 },
+            { "month": "2023年09月", "monthRate": -0.02, "yearRate": -0.94, "price": 8783 },
+            { "month": "2023年08月", "monthRate": -0.02, "yearRate": -0.92, "price": 8785 },
+            { "month": "2023年07月", "monthRate": -0.08, "yearRate": -0.95, "price": 8787 },
+            { "month": "2023年06月", "monthRate": -0.05, "yearRate": -0.87, "price": 8794 },
+            { "month": "2023年05月", "monthRate": -0.08, "yearRate": -0.82, "price": 8798 }
+        ]
+        
+    },
+    {
+        "name": "宁波",
+        "latitude": 29.8711,
+        "longitude": 121.5498,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.09, "yearRate": 1.29, "price": 20139 },
+            { "month": "2024年03月", "monthRate": 0.39, "yearRate": 1.24, "price": 20121 },
+            { "month": "2024年02月", "monthRate": 0.02, "yearRate": 0.87, "price": 20043 },
+            { "month": "2024年01月", "monthRate": 0.11, "yearRate": 0.87, "price": 20039 },
+            { "month": "2023年12月", "monthRate": 0.30, "yearRate": 0.84, "price": 20016 },
+            { "month": "2023年11月", "monthRate": 0.10, "yearRate": 0.62, "price": 19956 },
+            { "month": "2023年10月", "monthRate": -0.01, "yearRate": 0.70, "price": 19937 },
+            { "month": "2023年09月", "monthRate": 0.14, "yearRate": 0.99, "price": 19939 },
+            { "month": "2023年08月", "monthRate": 0.07, "yearRate": 1.11, "price": 19912 },
+            { "month": "2023年07月", "monthRate": 0.05, "yearRate": 1.45, "price": 19898 },
+            { "month": "2023年06月", "monthRate": 0.04, "yearRate": 2.11, "price": 19888 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": 2.76, "price": 19881 }
+        ]
+        
+    },
+    {
+        "name": "宜昌",
+        "latitude": 30.7327,
+        "longitude": 111.2858,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0, "yearRate": -0.05, "price": 7773 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": -0.06, "price": 7773 },
+            { "month": "2024年02月", "monthRate": -0.04, "yearRate": -0.06, "price": 7773 },
+            { "month": "2024年01月", "monthRate": -0.06, "yearRate": -0.01, "price": 7776 },
+            { "month": "2023年12月", "monthRate": 0.03, "yearRate": 0.05, "price": 7781 },
+            { "month": "2023年11月", "monthRate": 0.04, "yearRate": 0.03, "price": 7779 },
+            { "month": "2023年10月", "monthRate": -0.03, "yearRate": 0, "price": 7776 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": -0.10, "price": 7778 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -0.10, "price": 7778 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.19, "price": 7777 },
+            { "month": "2023年06月", "monthRate": 0.01, "yearRate": -0.08, "price": 7776 },
+            { "month": "2023年05月", "monthRate": -0.03, "yearRate": 0, "price": 7775 }
+        ]
+        
+    },
+    {
+        "name": "宿迁",
+        "latitude": 33.9625,
+        "longitude": 118.3052,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0, "yearRate": 0.02, "price": 5677 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": 0.02, "price": 5677 },
+            { "month": "2024年02月", "monthRate": 0, "yearRate": 0.04, "price": 5677 },
+            { "month": "2024年01月", "monthRate": 0.02, "yearRate": 0.04, "price": 5677 },
+            { "month": "2023年12月", "monthRate": 0, "yearRate": 0.02, "price": 5676 },
+            { "month": "2023年11月", "monthRate": 0, "yearRate": 0.02, "price": 5676 },
+            { "month": "2023年10月", "monthRate": 0, "yearRate": 0.02, "price": 5676 },
+            { "month": "2023年09月", "monthRate": 0, "yearRate": 0.02, "price": 5676 },
+            { "month": "2023年08月", "monthRate": 0, "yearRate": 0, "price": 5676 },
+            { "month": "2023年07月", "monthRate": 0, "yearRate": 0, "price": 5676 },
+            { "month": "2023年06月", "monthRate": 0, "yearRate": 0, "price": 5676 },
+            { "month": "2023年05月", "monthRate": 0, "yearRate": 0, "price": 5676 }
+        ]
+        
+    },
+    {
+        "name": "常州",
+        "latitude": 31.7713,
+        "longitude": 119.8742,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.03, "yearRate": 0.18, "price": 13001 },
+            { "month": "2024年03月", "monthRate": 0.01, "yearRate": 0.09, "price": 12997 },
+            { "month": "2024年02月", "monthRate": -0.01, "yearRate": 0.06, "price": 12996 },
+            { "month": "2024年01月", "monthRate": 0.18, "yearRate": -0.02, "price": 12997 },
+            { "month": "2023年12月", "monthRate": 0.02, "yearRate": -0.18, "price": 12974 },
+            { "month": "2023年11月", "monthRate": 0.02, "yearRate": -0.37, "price": 12971 },
+            { "month": "2023年10月", "monthRate": -0.01, "yearRate": -0.38, "price": 12968 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -0.28, "price": 12969 },
+            { "month": "2023年08月", "monthRate": -0.04, "yearRate": -0.12, "price": 12968 },
+            { "month": "2023年07月", "monthRate": -0.04, "yearRate": 0.01, "price": 12973 },
+            { "month": "2023年06月", "monthRate": 0.03, "yearRate": 0.05, "price": 12978 },
+            { "month": "2023年05月", "monthRate": -0.02, "yearRate": -0.13, "price": 12974 }
+        ]
+        
+    },
+    {
+        "name": "常熟",
+        "latitude": 31.6513,
+        "longitude": 120.7523,
+        "monthRate": 0,
+        "yearRate": 0,
+        "price": 15260
+    },
+    {
+        "name": "广州",
+        "latitude": 23.1291,
+        "longitude": 113.2644,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.06, "yearRate": 0.29, "price": 24692 },
+            { "month": "2024年03月", "monthRate": -0.10, "yearRate": 0.33, "price": 24706 },
+            { "month": "2024年02月", "monthRate": 0.11, "yearRate": 0.45, "price": 24731 },
+            { "month": "2024年01月", "monthRate": 0.12, "yearRate": 0.34, "price": 24703 },
+            { "month": "2023年12月", "monthRate": 0.03, "yearRate": 0.12, "price": 24674 },
+            { "month": "2023年11月", "monthRate": 0.14, "yearRate": -0.02, "price": 24667 },
+            { "month": "2023年10月", "monthRate": 0.02, "yearRate": -0.23, "price": 24633 },
+            { "month": "2023年09月", "monthRate": -0.02, "yearRate": -0.08, "price": 24628 },
+            { "month": "2023年08月", "monthRate": -0.10, "yearRate": -0.15, "price": 24634 },
+            { "month": "2023年07月", "monthRate": 0.03, "yearRate": 0.02, "price": 24659 },
+            { "month": "2023年06月", "monthRate": 0.09, "yearRate": 0.04, "price": 24652 },
+            { "month": "2023年05月", "monthRate": 0.04, "yearRate": -0.03, "price": 24630 }
+        ]
+        
+    },
+    {
+        "name": "廊坊",
+        "latitude": 39.5186,
+        "longitude": 116.7167,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": 0.19, "price": 11641 },
+            { "month": "2024年03月", "monthRate": 0.05, "yearRate": 0.17, "price": 11641 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": 0.07, "price": 11635 },
+            { "month": "2024年01月", "monthRate": 0.02, "yearRate": 0.00, "price": 11635 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.10, "price": 11633 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": -0.15, "price": 11634 },
+            { "month": "2023年10月", "monthRate": 0.16, "yearRate": -0.33, "price": 11634 },
+            { "month": "2023年09月", "monthRate": -0.01, "yearRate": -0.49, "price": 11615 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": -0.54, "price": 11616 },
+            { "month": "2023年07月", "monthRate": -0.03, "yearRate": -0.66, "price": 11616 },
+            { "month": "2023年06月", "monthRate": 0.01, "yearRate": -0.67, "price": 11619 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -1.05, "price": 11618 }
+        ]
+        
+    },
+    {
+        "name": "张家口",
+        "latitude": 40.8277,
+        "longitude": 114.8778,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.01, "yearRate": 0.00, "price": 8322 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": 0.01, "price": 8323 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": 0.04, "price": 8325 },
+            { "month": "2024年01月", "monthRate": 0.00, "yearRate": 0.05, "price": 8327 },
+            { "month": "2023年12月", "monthRate": 0.00, "yearRate": 0.02, "price": 8327 },
+            { "month": "2023年11月", "monthRate": 0.01, "yearRate": 0.01, "price": 8327 },
+            { "month": "2023年10月", "monthRate": 0.02, "yearRate": -0.05, "price": 8326 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -0.31, "price": 8324 },
+            { "month": "2023年08月", "monthRate": 0.02, "yearRate": -0.31, "price": 8324 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.54, "price": 8322 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -0.60, "price": 8322 },
+            { "month": "2023年05月", "monthRate": 0.00, "yearRate": -0.60, "price": 8322 }
+        ]
+        
+    },
+    {
+        "name": "张家港",
+        "latitude": 31.8753,
+        "longitude": 120.5553,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": 0.10, "price": 11004 },
+            { "month": "2024年03月", "monthRate": 0.00, "yearRate": 0.10, "price": 11004 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": 0.10, "price": 11004 },
+            { "month": "2024年01月", "monthRate": 0.08, "yearRate": 0.10, "price": 11004 },
+            { "month": "2023年12月", "monthRate": 0.00, "yearRate": 0.02, "price": 10995 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": 0.02, "price": 10995 },
+            { "month": "2023年10月", "monthRate": 0.02, "yearRate": 0.02, "price": 10995 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": 0.00, "price": 10993 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": -0.01, "price": 10993 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.12, "price": 10993 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -0.02, "price": 10993 },
+            { "month": "2023年05月", "monthRate": 0.00, "yearRate": 0.04, "price": 10993 }
+        ]
+        
+    },
+    {
+        "name": "徐州",
+        "latitude": 34.2046,
+        "longitude": 117.2934,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.01, "yearRate": -0.51, "price": 9834 },
+            { "month": "2024年03月", "monthRate": -0.01, "yearRate": -0.55, "price": 9833 },
+            { "month": "2024年02月", "monthRate": -0.06, "yearRate": -0.53, "price": 9834 },
+            { "month": "2024年01月", "monthRate": 0.05, "yearRate": -0.46, "price": 9840 },
+            { "month": "2023年12月", "monthRate": 0.00, "yearRate": -0.48, "price": 9835 },
+            { "month": "2023年11月", "monthRate": 0.05, "yearRate": -0.61, "price": 9835 },
+            { "month": "2023年10月", "monthRate": -0.22, "yearRate": -0.67, "price": 9830 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -0.53, "price": 9852 },
+            { "month": "2023年08月", "monthRate": -0.15, "yearRate": -0.63, "price": 9852 },
+            { "month": "2023年07月", "monthRate": -0.03, "yearRate": -0.58, "price": 9867 },
+            { "month": "2023年06月", "monthRate": 0.01, "yearRate": -0.37, "price": 9870 },
+            { "month": "2023年05月", "monthRate": -0.15, "yearRate": -0.43, "price": 9869 }
+        ]
+        
+    },
+    {
+        "name": "株洲",
+        "latitude": 27.8333,
+        "longitude": 113.1333,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": -0.43, "price": 6001 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": -0.53, "price": 6001 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": -0.74, "price": 6002 },
+            { "month": "2024年01月", "monthRate": 0.02, "yearRate": -0.81, "price": 6002 },
+            { "month": "2023年12月", "monthRate": 0.00, "yearRate": -0.83, "price": 6001 },
+            { "month": "2023年11月", "monthRate": -0.05, "yearRate": -1.20, "price": 6001 },
+            { "month": "2023年10月", "monthRate": 0.00, "yearRate": -1.61, "price": 6004 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -1.64, "price": 6004 },
+            { "month": "2023年08月", "monthRate": -0.07, "yearRate": -1.64, "price": 6004 },
+            { "month": "2023年07月", "monthRate": -0.07, "yearRate": -1.64, "price": 6008 },
+            { "month": "2023年06月", "monthRate": -0.03, "yearRate": -1.70, "price": 6012 },
+            { "month": "2023年05月", "monthRate": -0.22, "yearRate": -1.92, "price": 6014 }
+        ]
+        
+    },
+    {
+        "name": "桂林",
+        "latitude": 25.2819,
+        "longitude": 110.2863,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": -0.36, "price": 6446 },
+            { "month": "2024年03月", "monthRate": 0.02, "yearRate": -0.45, "price": 6446 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": -0.48, "price": 6445 },
+            { "month": "2024年01月", "monthRate": 0.00, "yearRate": -0.52, "price": 6445 },
+            { "month": "2023年12月", "monthRate": 0.00, "yearRate": -0.63, "price": 6445 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": -0.68, "price": 6445 },
+            { "month": "2023年10月", "monthRate": -0.14, "yearRate": -0.75, "price": 6445 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -0.75, "price": 6454 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": -0.84, "price": 6454 },
+            { "month": "2023年07月", "monthRate": -0.02, "yearRate": -0.98, "price": 6454 },
+            { "month": "2023年06月", "monthRate": -0.05, "yearRate": -1.00, "price": 6455 },
+            { "month": "2023年05月", "monthRate": -0.17, "yearRate": -1.19, "price": 6458 }
+        ]
+        
+    },
+    {
+        "name": "武汉",
+        "latitude": 30.5928,
+        "longitude": 114.3055,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.01, "yearRate": -0.05, "price": 13215 },
+            { "month": "2024年03月", "monthRate": 0.06, "yearRate": 0.05, "price": 13217 },
+            { "month": "2024年02月", "monthRate": -0.05, "yearRate": -0.08, "price": 13209 },
+            { "month": "2024年01月", "monthRate": 0.18, "yearRate": -0.09, "price": 13215 },
+            { "month": "2023年12月", "monthRate": 0.05, "yearRate": -0.35, "price": 13191 },
+            { "month": "2023年11月", "monthRate": -0.17, "yearRate": -0.51, "price": 13185 },
+            { "month": "2023年10月", "monthRate": 0.20, "yearRate": -0.49, "price": 13207 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -0.85, "price": 13181 },
+            { "month": "2023年08月", "monthRate": -0.10, "yearRate": -0.97, "price": 13179 },
+            { "month": "2023年07月", "monthRate": -0.04, "yearRate": -0.87, "price": 13193 },
+            { "month": "2023年06月", "monthRate": -0.10, "yearRate": -0.53, "price": 13198 },
+            { "month": "2023年05月", "monthRate": -0.08, "yearRate": -0.39, "price": 13211 }
+        ]
+        
+    },
+    {
+        "name": "汕头",
+        "latitude": 23.3541,
+        "longitude": 116.6822,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.04, "yearRate": -0.29, "price": 10708 },
+            { "month": "2024年03月", "monthRate": -0.01, "yearRate": -0.25, "price": 10712 },
+            { "month": "2024年02月", "monthRate": -0.03, "yearRate": -0.28, "price": 10713 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.36, "price": 10716 },
+            { "month": "2023年12月", "monthRate": -0.08, "yearRate": -0.57, "price": 10718 },
+            { "month": "2023年11月", "monthRate": -0.08, "yearRate": -0.51, "price": 10727 },
+            { "month": "2023年10月", "monthRate": -0.02, "yearRate": -0.43, "price": 10736 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -0.41, "price": 10738 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": -0.45, "price": 10738 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.49, "price": 10738 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -0.57, "price": 10738 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -0.60, "price": 10738 }
+        ]
+        
+    },
+    {
+        "name": "江门",
+        "latitude": 22.5836,
+        "longitude": 113.0816,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.02, "yearRate": -0.14, "price": 8336 },
+            { "month": "2024年03月", "monthRate": 0.04, "yearRate": -0.19, "price": 8338 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": -0.28, "price": 8335 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.28, "price": 8337 },
+            { "month": "2023年12月", "monthRate": 0.04, "yearRate": -0.31, "price": 8339 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": -0.50, "price": 8336 },
+            { "month": "2023年10月", "monthRate": 0.06, "yearRate": -0.51, "price": 8336 },
+            { "month": "2023年09月", "monthRate": 0.11, "yearRate": -1.00, "price": 8331 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -1.47, "price": 8322 },
+            { "month": "2023年07月", "monthRate": -0.06, "yearRate": -1.54, "price": 8321 },
+            { "month": "2023年06月", "monthRate": -0.17, "yearRate": -1.53, "price": 8326 },
+            { "month": "2023年05月", "monthRate": -0.10, "yearRate": -1.40, "price": 8340 }
+        ]
+        
+    },
+    {
+        "name": "江阴",
+        "latitude": 31.9196,
+        "longitude": 120.2842,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": 0.05, "price": 10553 },
+            { "month": "2024年03月", "monthRate": 0.00, "yearRate": 0.05, "price": 10553 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": 0.08, "price": 10553 },
+            { "month": "2024年01月", "monthRate": 0.00, "yearRate": 0.08, "price": 10553 },
+            { "month": "2023年12月", "monthRate": 0.06, "yearRate": 0.08, "price": 10553 },
+            { "month": "2023年11月", "monthRate": -0.02, "yearRate": 0.00, "price": 10547 },
+            { "month": "2023年10月", "monthRate": 0.00, "yearRate": 0.02, "price": 10549 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -0.04, "price": 10549 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": -0.09, "price": 10548 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.30, "price": 10548 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -0.44, "price": 10548 },
+            { "month": "2023年05月", "monthRate": 0.00, "yearRate": -0.46, "price": 10548 }
+        ]
+        
+    },
+    {
+        "name": "沈阳",
+        "latitude": 41.8057,
+        "longitude": 123.4315,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.01, "yearRate": -0.70, "price": 9795 },
+            { "month": "2024年03月", "monthRate": -0.03, "yearRate": -0.73, "price": 9796 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": -0.73, "price": 9799 },
+            { "month": "2024年01月", "monthRate": -0.01, "yearRate": -0.76, "price": 9801 },
+            { "month": "2023年12月", "monthRate": -0.08, "yearRate": -0.84, "price": 9802 },
+            { "month": "2023年11月", "monthRate": -0.03, "yearRate": -0.96, "price": 9810 },
+            { "month": "2023年10月", "monthRate": -0.02, "yearRate": -1.10, "price": 9813 },
+            { "month": "2023年09月", "monthRate": -0.41, "yearRate": -1.11, "price": 9815 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -0.78, "price": 9855 },
+            { "month": "2023年07月", "monthRate": -0.06, "yearRate": -0.68, "price": 9854 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.51, "price": 9860 },
+            { "month": "2023年05月", "monthRate": -0.02, "yearRate": -0.73, "price": 9862 }
+        ]
+        
+    },
+    {
+        "name": "泉州",
+        "latitude": 24.8741,
+        "longitude": 118.6759,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.53, "yearRate": 1.03, "price": 8942 },
+            { "month": "2024年03月", "monthRate": 0.29, "yearRate": 0.51, "price": 8895 },
+            { "month": "2024年02月", "monthRate": 0.02, "yearRate": 0.23, "price": 8869 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": 0.21, "price": 8867 },
+            { "month": "2023年12月", "monthRate": 0.10, "yearRate": 0.23, "price": 8869 },
+            { "month": "2023年11月", "monthRate": 0.10, "yearRate": 0.10, "price": 8860 },
+            { "month": "2023年10月", "monthRate": 0.00, "yearRate": -0.02, "price": 8851 },
+            { "month": "2023年09月", "monthRate": 0.09, "yearRate": -0.02, "price": 8851 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": -0.11, "price": 8843 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.20, "price": 8840 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -0.25, "price": 8840 },
+            { "month": "2023年05月", "monthRate": -0.12, "yearRate": -0.20, "price": 8840 }
+        ]
+        
+    },
+    {
+        "name": "泰州",
+        "latitude": 32.4558,
+        "longitude": 119.9231,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.11, "yearRate": -0.08, "price": 8313 },
+            { "month": "2024年03月", "monthRate": 0.00, "yearRate": 0.01, "price": 8322 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": 0.01, "price": 8322 },
+            { "month": "2024年01月", "monthRate": 0.04, "yearRate": 0.01, "price": 8322 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.02, "price": 8319 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": -0.01, "price": 8320 },
+            { "month": "2023年10月", "monthRate": 0.00, "yearRate": -0.01, "price": 8320 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -0.01, "price": 8320 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": 0.00, "price": 8320 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.12, "price": 8320 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -0.02, "price": 8320 },
+            { "month": "2023年05月", "monthRate": 0.00, "yearRate": -0.07, "price": 8320 }
+        ]
+        
+    },
+    {
+        "name": "洛阳",
+        "latitude": 34.6197,
+        "longitude": 112.4540,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": -0.52, "price": 8025 },
+            { "month": "2024年03月", "monthRate": 0.01, "yearRate": -0.53, "price": 8025 },
+            { "month": "2024年02月", "monthRate": -0.01, "yearRate": -0.52, "price": 8024 },
+            { "month": "2024年01月", "monthRate": -0.01, "yearRate": -0.59, "price": 8025 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.58, "price": 8026 },
+            { "month": "2023年11月", "monthRate": -0.04, "yearRate": -0.69, "price": 8027 },
+            { "month": "2023年10月", "monthRate": -0.02, "yearRate": -0.78, "price": 8030 },
+            { "month": "2023年09月", "monthRate": -0.05, "yearRate": -0.81, "price": 8032 },
+            { "month": "2023年08月", "monthRate": -0.19, "yearRate": -0.86, "price": 8036 },
+            { "month": "2023年07月", "monthRate": -0.06, "yearRate": -0.78, "price": 8051 },
+            { "month": "2023年06月", "monthRate": -0.05, "yearRate": -0.75, "price": 8056 },
+            { "month": "2023年05月", "monthRate": -0.09, "yearRate": -0.82, "price": 8060 }
+        ]
+        
+    },
+    {
+        "name": "济南",
+        "latitude": 36.6512,
+        "longitude": 117.1201,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.06, "yearRate": 0.22, "price": 11956 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": 0.09, "price": 11948 },
+            { "month": "2024年02月", "monthRate": 0.01, "yearRate": 0.16, "price": 11951 },
+            { "month": "2024年01月", "monthRate": 0.06, "yearRate": 0.12, "price": 11950 },
+            { "month": "2023年12月", "monthRate": 0.03, "yearRate": 0.00, "price": 11943 },
+            { "month": "2023年11月", "monthRate": 0.03, "yearRate": -0.28, "price": 11940 },
+            { "month": "2023年10月", "monthRate": 0.01, "yearRate": -0.43, "price": 11937 },
+            { "month": "2023年09月", "monthRate": 0.03, "yearRate": -0.57, "price": 11935 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": -0.62, "price": 11932 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.74, "price": 11929 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.84, "price": 11926 },
+            { "month": "2023年05月", "monthRate": -0.01, "yearRate": -0.86, "price": 11929 }
+        ]
+        
+    },
+    {
+        "name": "济宁",
+        "latitude": 35.4140,
+        "longitude": 116.5872,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": -0.55, "price": 8014 },
+            { "month": "2024年03月", "monthRate": 0.01, "yearRate": -0.61, "price": 8014 },
+            { "month": "2024年02月", "monthRate": -0.04, "yearRate": -0.85, "price": 8013 },
+            { "month": "2024年01月", "monthRate": -0.15, "yearRate": -0.83, "price": 8016 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.74, "price": 8028 },
+            { "month": "2023年11月", "monthRate": -0.11, "yearRate": -0.73, "price": 8029 },
+            { "month": "2023年10月", "monthRate": -0.02, "yearRate": -0.62, "price": 8038 },
+            { "month": "2023年09月", "monthRate": 0.00, "yearRate": -0.68, "price": 8040 },
+            { "month": "2023年08月", "monthRate": -0.04, "yearRate": -0.80, "price": 8040 },
+            { "month": "2023年07月", "monthRate": -0.06, "yearRate": -0.94, "price": 8043 },
+            { "month": "2023年06月", "monthRate": -0.09, "yearRate": -0.81, "price": 8048 },
+            { "month": "2023年05月", "monthRate": -0.04, "yearRate": -0.60, "price": 8055 }
+        ]
+        
+    },
+    {
+        "name": "海口",
+        "latitude": 20.0440,
+        "longitude": 110.1999,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": 1.25, "price": 15426 },
+            { "month": "2024年03月", "monthRate": 0.03, "yearRate": 1.27, "price": 15426 },
+            { "month": "2024年02月", "monthRate": -0.02, "yearRate": 1.25, "price": 15421 },
+            { "month": "2024年01月", "monthRate": 1.11, "yearRate": 1.19, "price": 15424 },
+            { "month": "2023年12月", "monthRate": 0.02, "yearRate": 0.06, "price": 15254 },
+            { "month": "2023年11月", "monthRate": 0.02, "yearRate": 0.03, "price": 15251 },
+            { "month": "2023年10月", "monthRate": 0.00, "yearRate": 0.01, "price": 15248 },
+            { "month": "2023年09月", "monthRate": -0.01, "yearRate": -0.27, "price": 15248 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": -0.25, "price": 15250 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.23, "price": 15246 },
+            { "month": "2023年06月", "monthRate": 0.02, "yearRate": -0.31, "price": 15243 },
+            { "month": "2023年05月", "monthRate": 0.03, "yearRate": -0.35, "price": 15240 }
+        ]
+        
+    },
+    {
+        "name": "淄博",
+        "latitude": 36.8135,
+        "longitude": 118.0550,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.03, "yearRate": 0.04, "price": 7822 },
+            { "month": "2024年03月", "monthRate": 0.01, "yearRate": 0.00, "price": 7824 },
+            { "month": "2024年02月", "monthRate": 0.01, "yearRate": -0.10, "price": 7823 },
+            { "month": "2024年01月", "monthRate": 0.23, "yearRate": -0.20, "price": 7822 },
+            { "month": "2023年12月", "monthRate": -0.03, "yearRate": -0.50, "price": 7804 },
+            { "month": "2023年11月", "monthRate": -0.03, "yearRate": -0.47, "price": 7806 },
+            { "month": "2023年10月", "monthRate": -0.01, "yearRate": -0.45, "price": 7808 },
+            { "month": "2023年09月", "monthRate": -0.04, "yearRate": -0.37, "price": 7809 },
+            { "month": "2023年08月", "monthRate": -0.03, "yearRate": -0.31, "price": 7812 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.22, "price": 7814 },
+            { "month": "2023年06月", "monthRate": -0.05, "yearRate": -0.22, "price": 7813 },
+            { "month": "2023年05月", "monthRate": -0.03, "yearRate": -0.12, "price": 7817 }
+        ]
+        
+    },
+    {
+        "name": "淮安",
+        "latitude": 33.6100,
+        "longitude": 119.0153,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": 0.41, "price": 6335 },
+            { "month": "2024年03月", "monthRate": 0.15, "yearRate": 0.43, "price": 6335 },
+            { "month": "2024年02月", "monthRate": 0.17, "yearRate": 0.21, "price": 6325 },
+            { "month": "2024年01月", "monthRate": 0.03, "yearRate": 0.03, "price": 6314 },
+            { "month": "2023年12月", "monthRate": 0.00, "yearRate": -0.05, "price": 6312 },
+            { "month": "2023年11月", "monthRate": 0.00, "yearRate": -0.05, "price": 6312 },
+            { "month": "2023年10月", "monthRate": 0.00, "yearRate": -0.03, "price": 6312 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -0.03, "price": 6312 },
+            { "month": "2023年08月", "monthRate": 0.00, "yearRate": 0.00, "price": 6311 },
+            { "month": "2023年07月", "monthRate": 0.00, "yearRate": -0.17, "price": 6311 },
+            { "month": "2023年06月", "monthRate": 0.01, "yearRate": -0.22, "price": 6311 },
+            { "month": "2023年05月", "monthRate": 0.01, "yearRate": -0.14, "price": 6310 }
+        ]
+        
+    },
+    {
+        "name": "深圳",
+        "latitude": 22.5431,
+        "longitude": 114.0579,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.52, "yearRate": -1.44, "price": 53186 },
+            { "month": "2024年03月", "monthRate": 0.16, "yearRate": -2.01, "price": 52911 },
+            { "month": "2024年02月", "monthRate": -0.28, "yearRate": -2.19, "price": 52825 },
+            { "month": "2024年01月", "monthRate": 0.13, "yearRate": -1.93, "price": 52973 },
+            { "month": "2023年12月", "monthRate": -0.32, "yearRate": -2.22, "price": 52907 },
+            { "month": "2023年11月", "monthRate": -0.59, "yearRate": -2.19, "price": 53075 },
+            { "month": "2023年10月", "monthRate": -0.12, "yearRate": -1.79, "price": 53389 },
+            { "month": "2023年09月", "monthRate": 0.02, "yearRate": -1.99, "price": 53453 },
+            { "month": "2023年08月", "monthRate": -0.38, "yearRate": -2.03, "price": 53445 },
+            { "month": "2023年07月", "monthRate": -0.13, "yearRate": -1.43, "price": 53650 },
+            { "month": "2023年06月", "monthRate": -0.48, "yearRate": -1.31, "price": 53722 },
+            { "month": "2023年05月", "monthRate": 0.03, "yearRate": -0.68, "price": 53979 }
+        ]
+        
+    },
+    {
+        "name": "温州",
+        "latitude": 27.9949,
+        "longitude": 120.6994,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.03, "yearRate": -0.72, "price": 18736 },
+            { "month": "2024年03月", "monthRate": 0.03, "yearRate": -0.72, "price": 18742 },
+            { "month": "2024年02月", "monthRate": -0.05, "yearRate": -0.80, "price": 18736 },
+            { "month": "2024年01月", "monthRate": -0.24, "yearRate": -1.08, "price": 18746 },
+            { "month": "2023年12月", "monthRate": -0.05, "yearRate": -1.70, "price": 18791 },
+            { "month": "2023年11月", "monthRate": -0.07, "yearRate": -1.81, "price": 18801 },
+            { "month": "2023年10月", "monthRate": -0.41, "yearRate": -1.90, "price": 18814 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -1.66, "price": 18891 },
+            { "month": "2023年08月", "monthRate": 0.04, "yearRate": -1.73, "price": 18890 },
+            { "month": "2023年07月", "monthRate": -0.01, "yearRate": -2.17, "price": 18883 },
+            { "month": "2023年06月", "monthRate": 0.04, "yearRate": -2.66, "price": 18885 },
+            { "month": "2023年05月", "monthRate": 0.03, "yearRate": -3.38, "price": 18877 }
+        ]
+        
+    },
+    {
+        "name": "湖州",
+        "latitude": 30.8943,
+        "longitude": 120.0868,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.01, "yearRate": -0.22, "price": 11248 },
+            { "month": "2024年03月", "monthRate": 0.02, "yearRate": -0.22, "price": 11247 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": -0.22, "price": 11245 },
+            { "month": "2024年01月", "monthRate": 0.03, "yearRate": -0.23, "price": 11245 },
+            { "month": "2023年12月", "monthRate": 0.02, "yearRate": -0.26, "price": 11242 },
+            { "month": "2023年11月", "monthRate": 0.07, "yearRate": -0.45, "price": 11240 },
+            { "month": "2023年10月", "monthRate": 0.04, "yearRate": -0.70, "price": 11232 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -0.68, "price": 11228 },
+            { "month": "2023年08月", "monthRate": -0.01, "yearRate": -0.72, "price": 11227 },
+            { "month": "2023年07月", "monthRate": -0.01, "yearRate": -0.73, "price": 11228 },
+            { "month": "2023年06月", "monthRate": -0.17, "yearRate": -0.53, "price": 11229 },
+            { "month": "2023年05月", "monthRate": -0.22, "yearRate": -0.66, "price": 11248 }
+        ]
+        
+    },
+    {
+        "name": "湘潭",
+        "latitude": 27.8280,
+        "longitude": 112.9356,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.00, "yearRate": -1.03, "price": 5274 },
+            { "month": "2024年03月", "monthRate": 0.00, "yearRate": -1.03, "price": 5274 },
+            { "month": "2024年02月", "monthRate": 0.00, "yearRate": -1.12, "price": 5274 },
+            { "month": "2024年01月", "monthRate": 0.00, "yearRate": -1.29, "price": 5274 },
+            { "month": "2023年12月", "monthRate": -0.04, "yearRate": -1.33, "price": 5274 },
+            { "month": "2023年11月", "monthRate": -0.45, "yearRate": -1.81, "price": 5276 },
+            { "month": "2023年10月", "monthRate": -0.15, "yearRate": -1.56, "price": 5300 },
+            { "month": "2023年09月", "monthRate": -0.11, "yearRate": -1.41, "price": 5308 },
+            { "month": "2023年08月", "monthRate": -0.17, "yearRate": -1.45, "price": 5314 },
+            { "month": "2023年07月", "monthRate": -0.04, "yearRate": -1.46, "price": 5323 },
+            { "month": "2023年06月", "monthRate": 0.00, "yearRate": -1.46, "price": 5325 },
+            { "month": "2023年05月", "monthRate": -0.08, "yearRate": -1.57, "price": 5325 }
+        ]
+        
+    },
+    {
+        "name": "湛江",
+        "latitude": 21.2713,
+        "longitude": 110.3589,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.07, "yearRate": -0.78, "price": 10113 },
+            { "month": "2024年03月", "monthRate": -0.04, "yearRate": -0.74, "price": 10120 },
+            { "month": "2024年02月", "monthRate": -0.03, "yearRate": -0.75, "price": 10124 },
+            { "month": "2024年01月", "monthRate": -0.07, "yearRate": -0.80, "price": 10127 },
+            { "month": "2023年12月", "monthRate": -0.03, "yearRate": -0.91, "price": 10134 },
+            { "month": "2023年11月", "monthRate": -0.02, "yearRate": -1.18, "price": 10137 },
+            { "month": "2023年10月", "monthRate": 0.03, "yearRate": -1.56, "price": 10139 },
+            { "month": "2023年09月", "monthRate": 0.11, "yearRate": -1.89, "price": 10136 },
+            { "month": "2023年08月", "monthRate": -0.40, "yearRate": -2.22, "price": 10125 },
+            { "month": "2023年07月", "monthRate": -0.03, "yearRate": -2.14, "price": 10166 },
+            { "month": "2023年06月", "monthRate": -0.16, "yearRate": -2.61, "price": 10169 },
+            { "month": "2023年05月", "monthRate": -0.07, "yearRate": -2.40, "price": 10185 }
+        ]
+        
+    },
+    {
+        "name": "漳州",
+        "latitude": 24.5135,
+        "longitude": 117.6470,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.16, "yearRate": -0.53, "price": 10978 },
+            { "month": "2024年03月", "monthRate": -0.15, "yearRate": -0.37, "price": 10996 },
+            { "month": "2024年02月", "monthRate": -0.15, "yearRate": -0.24, "price": 11012 },
+            { "month": "2024年01月", "monthRate": -0.18, "yearRate": -0.21, "price": 11028 },
+            { "month": "2023年12月", "monthRate": 0.08, "yearRate": -0.13, "price": 11048 },
+            { "month": "2023年11月", "monthRate": 0, "yearRate": -0.24, "price": 11039 },
+            { "month": "2023年10月", "monthRate": 0, "yearRate": -0.33, "price": 11039 },
+            { "month": "2023年09月", "monthRate": 0.09, "yearRate": -0.54, "price": 11039 },
+            { "month": "2023年08月", "monthRate": 0, "yearRate": -0.68, "price": 11029 },
+            { "month": "2023年07月", "monthRate": 0, "yearRate": -0.57, "price": 11029 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.41, "price": 11029 },
+            { "month": "2023年05月", "monthRate": -0.05, "yearRate": -0.28, "price": 11031 }
+        ]
+    },
+    {
+        "name": "潍坊",
+        "latitude": 36.7069,
+        "longitude": 119.1618,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.01, "yearRate": -0.09, "price": 6746 },
+            { "month": "2024年03月", "monthRate": 0.01, "yearRate": -0.12, "price": 6745 },
+            { "month": "2024年02月", "monthRate": 0, "yearRate": -0.21, "price": 6744 },
+            { "month": "2024年01月", "monthRate": 0, "yearRate": -0.19, "price": 6744 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.21, "price": 6744 },
+            { "month": "2023年11月", "monthRate": -0.01, "yearRate": -0.24, "price": 6745 },
+            { "month": "2023年10月", "monthRate": -0.01, "yearRate": -0.31, "price": 6746 },
+            { "month": "2023年09月", "monthRate": -0.01, "yearRate": -0.44, "price": 6747 },
+            { "month": "2023年08月", "monthRate": 0.01, "yearRate": -0.50, "price": 6748 },
+            { "month": "2023年07月", "monthRate": -0.03, "yearRate": -0.56, "price": 6747 },
+            { "month": "2023年06月", "monthRate": -0.01, "yearRate": -0.47, "price": 6749 },
+            { "month": "2023年05月", "monthRate": -0.03, "yearRate": -0.43, "price": 6750 }
+        ]
+        
+    },
+    {
+        "name": "烟台",
+        "latitude": 37.4638,
+        "longitude": 121.4479,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.09, "yearRate": -0.95, "price": 9140 },
+            { "month": "2024年03月", "monthRate": 0.13, "yearRate": -0.94, "price": 9148 },
+            { "month": "2024年02月", "monthRate": 0.05, "yearRate": -1.19, "price": 9136 },
+            { "month": "2024年01月", "monthRate": -0.07, "yearRate": -1.35, "price": 9131 },
+            { "month": "2023年12月", "monthRate": -0.12, "yearRate": -1.33, "price": 9137 },
+            { "month": "2023年11月", "monthRate": -0.39, "yearRate": -1.35, "price": 9148 },
+            { "month": "2023年10月", "monthRate": -0.03, "yearRate": -1.03, "price": 9184 },
+            { "month": "2023年09月", "monthRate": 0.10, "yearRate": -1.04, "price": 9187 },
+            { "month": "2023年08月", "monthRate": -0.13, "yearRate": -1.21, "price": 9178 },
+            { "month": "2023年07月", "monthRate": -0.12, "yearRate": -1.15, "price": 9190 },
+            { "month": "2023年06月", "monthRate": -0.14, "yearRate": -0.89, "price": 9201 },
+            { "month": "2023年05月", "monthRate": -0.15, "yearRate": -0.73, "price": 9214 }
+        ]
+        
+    },
+    {
+        "name": "珠海",
+        "latitude": 22.2700,
+        "longitude": 113.5767,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.30, "yearRate": -0.82, "price": 21380 },
+            { "month": "2024年03月", "monthRate": -0.29, "yearRate": -0.56, "price": 21443 },
+            { "month": "2024年02月", "monthRate": 0.07, "yearRate": -0.34, "price": 21506 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.52, "price": 21490 },
+            { "month": "2023年12月", "monthRate": 0.10, "yearRate": -0.60, "price": 21495 },
+            { "month": "2023年11月", "monthRate": -0.12, "yearRate": -0.88, "price": 21473 },
+            { "month": "2023年10月", "monthRate": 0.02, "yearRate": -0.85, "price": 21498 },
+            { "month": "2023年09月", "monthRate": 0.07, "yearRate": -1.00, "price": 21495 },
+            { "month": "2023年08月", "monthRate": -0.11, "yearRate": -1.25, "price": 21480 },
+            { "month": "2023年07月", "monthRate": -0.12, "yearRate": -1.06, "price": 21503 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.98, "price": 21529 },
+            { "month": "2023年05月", "monthRate": -0.10, "yearRate": -0.97, "price": 21534 }
+        ]
+        
+    },
+    {
+        "name": "盐城",
+        "latitude": 33.3551,
+        "longitude": 120.1636,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.04, "yearRate": -0.96, "price": 8488 },
+            { "month": "2024年03月", "monthRate": -0.02, "yearRate": -1.00, "price": 8492 },
+            { "month": "2024年02月", "monthRate": -0.21, "yearRate": -1.07, "price": 8494 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.85, "price": 8512 },
+            { "month": "2023年12月", "monthRate": -0.11, "yearRate": -0.83, "price": 8514 },
+            { "month": "2023年11月", "monthRate": 0, "yearRate": -0.75, "price": 8523 },
+            { "month": "2023年10月", "monthRate": -0.13, "yearRate": -0.75, "price": 8523 },
+            { "month": "2023年09月", "monthRate": -0.14, "yearRate": -0.62, "price": 8534 },
+            { "month": "2023年08月", "monthRate": -0.16, "yearRate": -0.45, "price": 8546 },
+            { "month": "2023年07月", "monthRate": -0.08, "yearRate": -0.41, "price": 8560 },
+            { "month": "2023年06月", "monthRate": 0, "yearRate": -0.27, "price": 8567 },
+            { "month": "2023年05月", "monthRate": -0.03, "yearRate": -0.27, "price": 8567 }
+        ]
+        
+    },
+    {
+        "name": "石家庄",
+        "latitude": 38.0428,
+        "longitude": 114.5149,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.43, "yearRate": 1.13, "price": 11955 },
+            { "month": "2024年03月", "monthRate": 0.02, "yearRate": 0.63, "price": 11904 },
+            { "month": "2024年02月", "monthRate": 0.49, "yearRate": 0.61, "price": 11902 },
+            { "month": "2024年01月", "monthRate": 0.16, "yearRate": 0.10, "price": 11844 },
+            { "month": "2023年12月", "monthRate": -0.08, "yearRate": -0.07, "price": 11825 },
+            { "month": "2023年11月", "monthRate": -0.02, "yearRate": -0.12, "price": 11834 },
+            { "month": "2023年10月", "monthRate": 0.05, "yearRate": -0.22, "price": 11836 },
+            { "month": "2023年09月", "monthRate": 0.07, "yearRate": -0.34, "price": 11830 },
+            { "month": "2023年08月", "monthRate": 0.03, "yearRate": -0.61, "price": 11822 },
+            { "month": "2023年07月", "monthRate": 0.01, "yearRate": -0.92, "price": 11818 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.96, "price": 11817 },
+            { "month": "2023年05月", "monthRate": -0.03, "yearRate": -0.86, "price": 11819 }
+        ]
+        
+    },
+    {
+        "name": "福州",
+        "latitude": 26.0745,
+        "longitude": 119.2965,
+        "data": [
+            { "month": "2024年04月", "monthRate": 0.11, "yearRate": -0.16, "price": 17135 },
+            { "month": "2024年03月", "monthRate": 0.05, "yearRate": -0.30, "price": 17116 },
+            { "month": "2024年02月", "monthRate": 0, "yearRate": -0.33, "price": 17108 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.33, "price": 17108 },
+            { "month": "2023年12月", "monthRate": 0.03, "yearRate": -0.42, "price": 17112 },
+            { "month": "2023年11月", "monthRate": -0.07, "yearRate": -0.47, "price": 17107 },
+            { "month": "2023年10月", "monthRate": -0.32, "yearRate": -0.41, "price": 17118 },
+            { "month": "2023年09月", "monthRate": 0.01, "yearRate": -0.05, "price": 17173 },
+            { "month": "2023年08月", "monthRate": 0.02, "yearRate": -0.05, "price": 17171 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.09, "price": 17168 },
+            { "month": "2023年06月", "monthRate": -0.02, "yearRate": -0.14, "price": 17165 },
+            { "month": "2023年05月", "monthRate": 0.03, "yearRate": -0.11, "price": 17169 }
+        ]
+        
+    },
+    {
+        "name": "秦皇岛",
+        "latitude": 39.9354,
+        "longitude": 119.6005,
+        "data": [
+            { "month": "2024年04月", "monthRate": -0.06, "yearRate": -0.14, "price": 9560 },
+            { "month": "2024年03月", "monthRate": 0, "yearRate": -0.15, "price": 9566 },
+            { "month": "2024年02月", "monthRate": 0.05, "yearRate": -0.15, "price": 9566 },
+            { "month": "2024年01月", "monthRate": -0.02, "yearRate": -0.19, "price": 9561 },
+            { "month": "2023年12月", "monthRate": -0.01, "yearRate": -0.17, "price": 9563 },
+            { "month": "2023年11月", "monthRate": 0, "yearRate": -0.16, "price": 9564 },
+            { "month": "2023年10月", "monthRate": 0.16, "yearRate": -0.16, "price": 9564 },
+            { "month": "2023年09月", "monthRate": -0.23, "yearRate": -0.39, "price": 9549 },
+            { "month": "2023年08月", "monthRate": 0, "yearRate": -0.16, "price": 9571 },
+            { "month": "2023年07月", "monthRate": 0.02, "yearRate": -0.05, "price": 9571 },
+            { "month": "2023年06月", "monthRate": 0.03, "yearRate": -0.23, "price": 9569 },
+            { "month": "2023年05月", "monthRate": -0.07, "yearRate": -0.33, "price": 9566 }
+        ]
+        
+    },
+    {
+        "name": "绍兴",
+        "latitude": 30.0298,
+        "longitude": 120.5784,
+        
+            "data": [
+              {"month": "2024年04月", "monthRate": 0.36, "yearRate": 0.51, "price": 16292},
+              {"month": "2024年03月", "monthRate": -0.01, "yearRate": 0.17, "price": 16233},
+              {"month": "2024年02月", "monthRate": -0.19, "yearRate": 0.20, "price": 16234},
+              {"month": "2024年01月", "monthRate": 0.18, "yearRate": 0.40, "price": 16265},
+              {"month": "2023年12月", "monthRate": 0.04, "yearRate": 0.22, "price": 16236},
+              {"month": "2023年11月", "monthRate": 0.02, "yearRate": 0.20, "price": 16230},
+              {"month": "2023年10月", "monthRate": 0.03, "yearRate": 0.20, "price": 16226},
+              {"month": "2023年09月", "monthRate": 0, "yearRate": 0.22, "price": 16221},
+              {"month": "2023年08月", "monthRate": -0.02, "yearRate": 0.22, "price": 16221},
+              {"month": "2023年07月", "monthRate": 0.02, "yearRate": 0.13, "price": 16225},
+              {"month": "2023年06月", "monthRate": 0.04, "yearRate": -0.02, "price": 16221},
+              {"month": "2023年05月", "monthRate": 0.03, "yearRate": -0.13, "price": 16214}
+            ]
+          
+          
+    },
+    {
+        "name": "绵阳",
+        "latitude": 31.4675,
+        "longitude": 104.6796,
+        
+            "data": [
+              {"month": "2024年04月", "monthRate": 0, "yearRate": 0.06, "price": 6950},
+              {"month": "2024年03月", "monthRate": 0.07, "yearRate": 0.07, "price": 6950},
+              {"month": "2024年02月", "monthRate": 0.29, "yearRate": 0.01, "price": 6945},
+              {"month": "2024年01月", "monthRate": 0.14, "yearRate": -0.27, "price": 6925},
+              {"month": "2023年12月", "monthRate": -0.03, "yearRate": -0.42, "price": 6915},
+              {"month": "2023年11月", "monthRate": -0.23, "yearRate": -0.39, "price": 6917},
+              {"month": "2023年10月", "monthRate": -0.04, "yearRate": -0.14, "price": 6933},
+              {"month": "2023年09月", "monthRate": 0, "yearRate": -0.14, "price": 6936},
+              {"month": "2023年08月", "monthRate": 0, "yearRate": -0.04, "price": 6936},
+              {"month": "2023年07月", "monthRate": -0.19, "yearRate": 0, "price": 6936},
+              {"month": "2023年06月", "monthRate": 0.01, "yearRate": 0.29, "price": 6949},
+              {"month": "2023年05月", "monthRate": 0.03, "yearRate": 0.32, "price": 6948}
+            ]
+          
+          
+    },
+    {
+        "name": "聊城",
+        "latitude": 36.4560,
+        "longitude": 115.9855,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.14, "yearRate": 0.18, "price": 6775},
+            {"month": "2024年03月", "monthRate": -0.22, "yearRate": 0.04, "price": 6766},
+            {"month": "2024年02月", "monthRate": -0.03, "yearRate": 0.27, "price": 6781},
+            {"month": "2024年01月", "monthRate": 0.11, "yearRate": 0.24, "price": 6783},
+            {"month": "2023年12月", "monthRate": 0.07, "yearRate": 0.13, "price": 6776},
+            {"month": "2023年11月", "monthRate": 0.03, "yearRate": 0.07, "price": 6771},
+            {"month": "2023年10月", "monthRate": 0.06, "yearRate": 0.03, "price": 6769},
+            {"month": "2023年09月", "monthRate": 0.12, "yearRate": 0.06, "price": 6765},
+            {"month": "2023年08月", "monthRate": 0.01, "yearRate": -0.32, "price": 6757},
+            {"month": "2023年07月", "monthRate": -0.18, "yearRate": -0.63, "price": 6756},
+            {"month": "2023年06月", "monthRate": 0.04, "yearRate": -0.31, "price": 6768},
+            {"month": "2023年05月", "monthRate": 0.03, "yearRate": -0.35, "price": 6765}
+        ]
+        
+    },
+    {
+        "name": "肇庆",
+        "latitude": 23.0469,
+        "longitude": 112.4651,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.01, "yearRate": -0.27, "price": 6965},
+            {"month": "2024年03月", "monthRate": -0.01, "yearRate": -0.27, "price": 6966},
+            {"month": "2024年02月", "monthRate": -0.01, "yearRate": -0.33, "price": 6967},
+            {"month": "2024年01月", "monthRate": -0.01, "yearRate": -0.31, "price": 6968},
+            {"month": "2023年12月", "monthRate": -0.01, "yearRate": -0.37, "price": 6969},
+            {"month": "2023年11月", "monthRate": -0.07, "yearRate": -0.49, "price": 6970},
+            {"month": "2023年10月", "monthRate": -0.03, "yearRate": -0.64, "price": 6975},
+            {"month": "2023年09月", "monthRate": 0, "yearRate": -0.74, "price": 6977},
+            {"month": "2023年08月", "monthRate": -0.01, "yearRate": -1.05, "price": 6977},
+            {"month": "2023年07月", "monthRate": -0.04, "yearRate": -1.06, "price": 6978},
+            {"month": "2023年06月", "monthRate": -0.03, "yearRate": -1.05, "price": 6981},
+            {"month": "2023年05月", "monthRate": -0.01, "yearRate": -1.01, "price": 6983}
+        ]
+        
+    },
+    {
+        "name": "芜湖",
+        "latitude": 31.3525,
+        "longitude": 118.4333,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0, "yearRate": -0.49, "price": 8397},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": -0.49, "price": 8397},
+            {"month": "2024年02月", "monthRate": 0, "yearRate": -0.54, "price": 8397},
+            {"month": "2024年01月", "monthRate": -0.01, "yearRate": -0.83, "price": 8397},
+            {"month": "2023年12月", "monthRate": 0, "yearRate": -1.08, "price": 8398},
+            {"month": "2023年11月", "monthRate": -0.35, "yearRate": -1.14, "price": 8398},
+            {"month": "2023年10月", "monthRate": 0.06, "yearRate": -1.10, "price": 8428},
+            {"month": "2023年09月", "monthRate": 0, "yearRate": -1.43, "price": 8423},
+            {"month": "2023年08月", "monthRate": 0, "yearRate": -1.61, "price": 8423},
+            {"month": "2023年07月", "monthRate": -0.10, "yearRate": -1.68, "price": 8423},
+            {"month": "2023年06月", "monthRate": -0.12, "yearRate": -1.63, "price": 8431},
+            {"month": "2023年05月", "monthRate": 0.03, "yearRate": -1.59, "price": 8441}
+        ]
+        
+    },
+    {
+        "name": "苏州",
+        "latitude": 31.2989,
+        "longitude": 120.5853,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.18, "yearRate": 0.95, "price": 18572},
+            {"month": "2024年03月", "monthRate": 0.35, "yearRate": 1.16, "price": 18606},
+            {"month": "2024年02月", "monthRate": -0.01, "yearRate": 0.82, "price": 18542},
+            {"month": "2024年01月", "monthRate": 0.15, "yearRate": 0.85, "price": 18545},
+            {"month": "2023年12月", "monthRate": 0.13, "yearRate": 0.73, "price": 18518},
+            {"month": "2023年11月", "monthRate": 0.26, "yearRate": 0.61, "price": 18494},
+            {"month": "2023年10月", "monthRate": 0.03, "yearRate": 0.38, "price": 18447},
+            {"month": "2023年09月", "monthRate": 0.20, "yearRate": 0.36, "price": 18442},
+            {"month": "2023年08月", "monthRate": 0.01, "yearRate": 0.20, "price": 18405},
+            {"month": "2023年07月", "monthRate": 0.02, "yearRate": 0.23, "price": 18403},
+            {"month": "2023年06月", "monthRate": -0.02, "yearRate": 0.21, "price": 18400},
+            {"month": "2023年05月", "monthRate": 0.03, "yearRate": 0.37, "price": 18403}
+        ]
+        
+    },
+    {
+        "name": "菏泽",
+        "latitude": 35.23,
+        "longitude": 115.45,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.02, "yearRate": -0.20, "price": 5418},
+            {"month": "2024年03月", "monthRate": -0.04, "yearRate": -0.18, "price": 5419},
+            {"month": "2024年02月", "monthRate": -0.02, "yearRate": -0.20, "price": 5421},
+            {"month": "2024年01月", "monthRate": -0.07, "yearRate": -0.18, "price": 5422},
+            {"month": "2023年12月", "monthRate": 0.09, "yearRate": -0.13, "price": 5426},
+            {"month": "2023年11月", "monthRate": -0.07, "yearRate": -0.26, "price": 5421},
+            {"month": "2023年10月", "monthRate": -0.11, "yearRate": -0.28, "price": 5425},
+            {"month": "2023年09月", "monthRate": -0.06, "yearRate": -0.22, "price": 5431},
+            {"month": "2023年08月", "monthRate": 0.02, "yearRate": -0.26, "price": 5434},
+            {"month": "2023年07月", "monthRate": 0.02, "yearRate": -0.49, "price": 5433},
+            {"month": "2023年06月", "monthRate": 0.04, "yearRate": -0.57, "price": 5432},
+            {"month": "2023年05月", "monthRate": 0.02, "yearRate": -0.59, "price": 5430}
+        ]
+        
+    },
+    {
+        "name": "衡水",
+        "latitude": 37.74,
+        "longitude": 115.69,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.03, "yearRate": -0.27, "price": 6533},
+            {"month": "2024年03月", "monthRate": -0.05, "yearRate": -0.37, "price": 6535},
+            {"month": "2024年02月", "monthRate": 0.11, "yearRate": -0.53, "price": 6538},
+            {"month": "2024年01月", "monthRate": 0.06, "yearRate": -1.09, "price": 6531},
+            {"month": "2023年12月", "monthRate": -0.03, "yearRate": -1.21, "price": 6527},
+            {"month": "2023年11月", "monthRate": -0.02, "yearRate": -1.67, "price": 6529},
+            {"month": "2023年10月", "monthRate": 0.08, "yearRate": -1.64, "price": 6530},
+            {"month": "2023年09月", "monthRate": -0.05, "yearRate": -1.70, "price": 6525},
+            {"month": "2023年08月", "monthRate": -0.08, "yearRate": -1.83, "price": 6528},
+            {"month": "2023年07月", "monthRate": -0.12, "yearRate": -2.00, "price": 6533},
+            {"month": "2023年06月", "monthRate": -0.12, "yearRate": -1.90, "price": 6541},
+            {"month": "2023年05月", "monthRate": -0.03, "yearRate": -1.78, "price": 6549}
+        ]
+        
+    },
+    {
+        "name": "西宁",
+        "latitude": 36.62,
+        "longitude": 101.77,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0, "yearRate": 0.07, "price": 7509},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": 0.07, "price": 7509},
+            {"month": "2024年02月", "monthRate": 0, "yearRate": 0.07, "price": 7509},
+            {"month": "2024年01月", "monthRate": 0, "yearRate": 0.07, "price": 7509},
+            {"month": "2023年12月", "monthRate": 0, "yearRate": 0.07, "price": 7509},
+            {"month": "2023年11月", "monthRate": 0, "yearRate": 0.07, "price": 7509},
+            {"month": "2023年10月", "monthRate": 0.03, "yearRate": 0.07, "price": 7509},
+            {"month": "2023年09月", "monthRate": 0.01, "yearRate": 0.04, "price": 7507},
+            {"month": "2023年08月", "monthRate": 0, "yearRate": -0.01, "price": 7506},
+            {"month": "2023年07月", "monthRate": 0, "yearRate": 0.04, "price": 7506},
+            {"month": "2023年06月", "monthRate": 0, "yearRate": 0.13, "price": 7506},
+            {"month": "2023年05月", "monthRate": 0.03, "yearRate": 0.16, "price": 7506}
+        ]
+        
+    },
+    {
+        "name": "西安",
+        "latitude": 34.35,
+        "longitude": 108.97,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.62, "yearRate": 2.82, "price": 12532},
+            {"month": "2024年03月", "monthRate": 0.03, "yearRate": 2.29, "price": 12455},
+            {"month": "2024年02月", "monthRate": 0.45, "yearRate": 2.30, "price": 12451},
+            {"month": "2024年01月", "monthRate": 0.49, "yearRate": 1.93, "price": 12395},
+            {"month": "2023年12月", "monthRate": 0.26, "yearRate": 1.47, "price": 12335},
+            {"month": "2023年11月", "monthRate": 0.06, "yearRate": 1.18, "price": 12303},
+            {"month": "2023年10月", "monthRate": 0.21, "yearRate": 1.15, "price": 12296},
+            {"month": "2023年09月", "monthRate": 0.25, "yearRate": 1.02, "price": 12270},
+            {"month": "2023年08月", "monthRate": 0.13, "yearRate": 0.88, "price": 12240},
+            {"month": "2023年07月", "monthRate": 0.06, "yearRate": 0.88, "price": 12224},
+            {"month": "2023年06月", "monthRate": 0.09, "yearRate": 1.23, "price": 12217},
+            {"month": "2023年05月", "monthRate": 0.15, "yearRate": 1.82, "price": 12206}
+        ]
+        
+    },
+    {
+        "name": "贵阳",
+        "latitude": 26.58,
+        "longitude": 106.72,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.27, "yearRate": 0, "price": 6974},
+            {"month": "2024年03月", "monthRate": -0.02, "yearRate": -0.24, "price": 6955},
+            {"month": "2024年02月", "monthRate": 0.02, "yearRate": -0.26, "price": 6957},
+            {"month": "2024年01月", "monthRate": -0.02, "yearRate": -0.29, "price": 6955},
+            {"month": "2023年12月", "monthRate": 0.07, "yearRate": -0.26, "price": 6957},
+            {"month": "2023年11月", "monthRate": -0.06, "yearRate": -0.33, "price": 6952},
+            {"month": "2023年10月", "monthRate": -0.09, "yearRate": -0.32, "price": 6956},
+            {"month": "2023年09月", "monthRate": -0.02, "yearRate": -0.32, "price": 6962},
+            {"month": "2023年08月", "monthRate": -0.05, "yearRate": -0.54, "price": 6964},
+            {"month": "2023年07月", "monthRate": -0.05, "yearRate": -0.54, "price": 6967},
+            {"month": "2023年06月", "monthRate": -0.02, "yearRate": -0.54, "price": 6970},
+            {"month": "2023年05月", "monthRate": -0.02, "yearRate": -0.60, "price": 6972}
+        ]
+        
+    },
+    {
+        "name": "赣州",
+        "latitude": 25.83,
+        "longitude": 114.94,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0, "yearRate": 0.33, "price": 8274},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": 0.33, "price": 8274},
+            {"month": "2024年02月", "monthRate": 0.44, "yearRate": 0.33, "price": 8274},
+            {"month": "2024年01月", "monthRate": -0.01, "yearRate": -0.10, "price": 8238},
+            {"month": "2023年12月", "monthRate": 0.02, "yearRate": -0.33, "price": 8239},
+            {"month": "2023年11月", "monthRate": 0.04, "yearRate": -0.35, "price": 8237},
+            {"month": "2023年10月", "monthRate": 0.02, "yearRate": -0.39, "price": 8234},
+            {"month": "2023年09月", "monthRate": 0, "yearRate": -0.41, "price": 8232},
+            {"month": "2023年08月", "monthRate": -0.10, "yearRate": -0.47, "price": 8232},
+            {"month": "2023年07月", "monthRate": 0.02, "yearRate": -0.56, "price": 8240},
+            {"month": "2023年06月", "monthRate": -0.11, "yearRate": -0.48, "price": 8238},
+            {"month": "2023年05月", "monthRate": 0, "yearRate": -0.37, "price": 8247}
+        ]
+        
+    },
+    {
+        "name": "连云港",
+        "latitude": 34.6,
+        "longitude": 119.22,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.23, "yearRate": 0.40, "price": 7789},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": 0.17, "price": 7771},
+            {"month": "2024年02月", "monthRate": 0.12, "yearRate": 0.17, "price": 7771},
+            {"month": "2024年01月", "monthRate": 0, "yearRate": 0.05, "price": 7762},
+            {"month": "2023年12月", "monthRate": -0.03, "yearRate": 0.06, "price": 7762},
+            {"month": "2023年11月", "monthRate": 0, "yearRate": 0.09, "price": 7764},
+            {"month": "2023年10月", "monthRate": 0.05, "yearRate": 0.10, "price": 7764},
+            {"month": "2023年09月", "monthRate": 0, "yearRate": 0.15, "price": 7760},
+            {"month": "2023年08月", "monthRate": 0, "yearRate": 0.21, "price": 7760},
+            {"month": "2023年07月", "monthRate": 0, "yearRate": 0.01, "price": 7760},
+            {"month": "2023年06月", "monthRate": 0.01, "yearRate": -0.08, "price": 7760},
+            {"month": "2023年05月", "monthRate": 0.01, "yearRate": 0.01, "price": 7759}
+        ]
+        
+    },
+    {
+        "name": "邯郸",
+        "latitude": 36.62,
+        "longitude": 114.54,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.04, "yearRate": -0.33, "price": 6952},
+            {"month": "2024年03月", "monthRate": 0.03, "yearRate": -0.30, "price": 6955},
+            {"month": "2024年02月", "monthRate": 0.03, "yearRate": -0.39, "price": 6953},
+            {"month": "2024年01月", "monthRate": 0.01, "yearRate": -0.49, "price": 6951},
+            {"month": "2023年12月", "monthRate": -0.17, "yearRate": -0.81, "price": 6950},
+            {"month": "2023年11月", "monthRate": -0.07, "yearRate": -0.78, "price": 6962},
+            {"month": "2023年10月", "monthRate": 0.03, "yearRate": -0.70, "price": 6967},
+            {"month": "2023年09月", "monthRate": 0.12, "yearRate": -0.68, "price": 6965},
+            {"month": "2023年08月", "monthRate": -0.04, "yearRate": -0.78, "price": 6957},
+            {"month": "2023年07月", "monthRate": 0.01, "yearRate": -0.71, "price": 6960},
+            {"month": "2023年06月", "monthRate": -0.09, "yearRate": -0.69, "price": 6959},
+            {"month": "2023年05月", "monthRate": -0.14, "yearRate": -0.73, "price": 6965}
+        ]
+        
+    },
+    {
+        "name": "郑州",
+        "latitude": 34.76,
+        "longitude": 113.65,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.45, "yearRate": 0.53, "price": 12346},
+            {"month": "2024年03月", "monthRate": 0.01, "yearRate": 0.08, "price": 12290},
+            {"month": "2024年02月", "monthRate": 0.02, "yearRate": 0.07, "price": 12288},
+            {"month": "2024年01月", "monthRate": 0.10, "yearRate": -0.10, "price": 12285},
+            {"month": "2023年12月", "monthRate": -0.01, "yearRate": -0.43, "price": 12273},
+            {"month": "2023年11月", "monthRate": -0.02, "yearRate": -0.77, "price": 12274},
+            {"month": "2023年10月", "monthRate": -0.06, "yearRate": -0.80, "price": 12277},
+            {"month": "2023年09月", "monthRate": 0.14, "yearRate": -0.74, "price": 12285},
+            {"month": "2023年08月", "monthRate": 0.02, "yearRate": -1.14, "price": 12268},
+            {"month": "2023年07月", "monthRate": -0.09, "yearRate": -1.18, "price": 12265},
+            {"month": "2023年06月", "monthRate": -0.06, "yearRate": -1.14, "price": 12276},
+            {"month": "2023年05月", "monthRate": 0.02, "yearRate": -1.04, "price": 12284}
+        ]
+        
+    },
+    {
+        "name": "重庆",
+        "latitude": 29.57,
+        "longitude": 106.55,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.10, "yearRate": -0.61, "price": 11648},
+            {"month": "2024年03月", "monthRate": -0.04, "yearRate": -0.49, "price": 11660},
+            {"month": "2024年02月", "monthRate": 0.16, "yearRate": -0.51, "price": 11664},
+            {"month": "2024年01月", "monthRate": 0.08, "yearRate": -0.70, "price": 11645},
+            {"month": "2023年12月", "monthRate": 0.04, "yearRate": -0.82, "price": 11636},
+            {"month": "2023年11月", "monthRate": -0.04, "yearRate": -1.02, "price": 11631},
+            {"month": "2023年10月", "monthRate": -0.20, "yearRate": -1.03, "price": 11636},
+            {"month": "2023年09月", "monthRate": -0.06, "yearRate": -0.93, "price": 11659},
+            {"month": "2023年08月", "monthRate": -0.04, "yearRate": -1.08, "price": 11666},
+            {"month": "2023年07月", "monthRate": -0.26, "yearRate": -1.08, "price": 11671},
+            {"month": "2023年06月", "monthRate": -0.18, "yearRate": -0.82, "price": 11702},
+            {"month": "2023年05月", "monthRate": 0.02, "yearRate": -0.67, "price": 11723}
+        ]
+        
+    },
+    {
+        "name": "金华",
+        "latitude": 29.12,
+        "longitude": 119.65,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.03, "yearRate": 0.46, "price": 12832},
+            {"month": "2024年03月", "monthRate": -0.58, "yearRate": 0.44, "price": 12828},
+            {"month": "2024年02月", "monthRate": 0.14, "yearRate": 1.05, "price": 12903},
+            {"month": "2024年01月", "monthRate": 0.93, "yearRate": 0.92, "price": 12884},
+            {"month": "2023年12月", "monthRate": 0.05, "yearRate": -0.24, "price": 12766},
+            {"month": "2023年11月", "monthRate": 0.19, "yearRate": -0.27, "price": 12760},
+            {"month": "2023年10月", "monthRate": 0, "yearRate": -0.47, "price": 12736},
+            {"month": "2023年09月", "monthRate": -0.03, "yearRate": -0.39, "price": 12736},
+            {"month": "2023年08月", "monthRate": -0.32, "yearRate": -0.26, "price": 12740},
+            {"month": "2023年07月", "monthRate": 0.02, "yearRate": -0.04, "price": 12781},
+            {"month": "2023年06月", "monthRate": 0.04, "yearRate": -0.05, "price": 12778},
+            {"month": "2023年05月", "monthRate": 0, "yearRate": -0.09, "price": 12773}
+        ]
+        
+    },
+    {
+        "name": "银川",
+        "latitude": 38.47,
+        "longitude": 106.27,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.03, "yearRate": 0.37, "price": 6708},
+            {"month": "2024年03月", "monthRate": 0.06, "yearRate": 0.40, "price": 6710},
+            {"month": "2024年02月", "monthRate": 0.09, "yearRate": 0.34, "price": 6706},
+            {"month": "2024年01月", "monthRate": -0.03, "yearRate": 0.25, "price": 6700},
+            {"month": "2023年12月", "monthRate": 0.19, "yearRate": 0.28, "price": 6702},
+            {"month": "2023年11月", "monthRate": -0.03, "yearRate": 0.09, "price": 6689},
+            {"month": "2023年10月", "monthRate": -0.07, "yearRate": 0.13, "price": 6691},
+            {"month": "2023年09月", "monthRate": 0.21, "yearRate": 0.25, "price": 6696},
+            {"month": "2023年08月", "monthRate": -0.03, "yearRate": 0.15, "price": 6682},
+            {"month": "2023年07月", "monthRate": 0.03, "yearRate": 0.10, "price": 6684},
+            {"month": "2023年06月", "monthRate": 0.03, "yearRate": 0.06, "price": 6682},
+            {"month": "2023年05月", "monthRate": -0.04, "yearRate": 0.07, "price": 6680}
+        ]
+        
+    },
+    {
+        "name": "镇江",
+        "latitude": 32.2,
+        "longitude": 119.47,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.01, "yearRate": -0.28, "price": 9413},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": -0.29, "price": 9412},
+            {"month": "2024年02月", "monthRate": -0.01, "yearRate": -0.28, "price": 9412},
+            {"month": "2024年01月", "monthRate": -0.01, "yearRate": -0.34, "price": 9413},
+            {"month": "2023年12月", "monthRate": -0.03, "yearRate": -0.32, "price": 9414},
+            {"month": "2023年11月", "monthRate": -0.03, "yearRate": -0.34, "price": 9417},
+            {"month": "2023年10月", "monthRate": -0.01, "yearRate": -0.33, "price": 9420},
+            {"month": "2023年09月", "monthRate": -0.15, "yearRate": -0.32, "price": 9421},
+            {"month": "2023年08月", "monthRate": 0.02, "yearRate": -0.26, "price": 9435},
+            {"month": "2023年07月", "monthRate": -0.02, "yearRate": -0.49, "price": 9433},
+            {"month": "2023年06月", "monthRate": -0.02, "yearRate": -0.35, "price": 9435},
+            {"month": "2023年05月", "monthRate": -0.02, "yearRate": -0.42, "price": 9437}
+        ]
+        
+    },
+    {
+        "name": "长春",
+        "latitude": 43.83,
+        "longitude": 125.35,
+        "data": [
+            {"month": "2024年04月", "monthRate": -0.29, "yearRate": -2.38, "price": 8724},
+            {"month": "2024年03月", "monthRate": -0.68, "yearRate": -2.25, "price": 8749},
+            {"month": "2024年02月", "monthRate": -0.05, "yearRate": -2.08, "price": 8809},
+            {"month": "2024年01月", "monthRate": -0.01, "yearRate": -2.14, "price": 8813},
+            {"month": "2023年12月", "monthRate": -0.09, "yearRate": -2.36, "price": 8814},
+            {"month": "2023年11月", "monthRate": -0.08, "yearRate": -2.40, "price": 8822},
+            {"month": "2023年10月", "monthRate": -0.03, "yearRate": -2.39, "price": 8829},
+            {"month": "2023年09月", "monthRate": -0.19, "yearRate": -2.54, "price": 8832},
+            {"month": "2023年08月", "monthRate": -0.02, "yearRate": -2.65, "price": 8849},
+            {"month": "2023年07月", "monthRate": -0.27, "yearRate": -2.74, "price": 8851},
+            {"month": "2023年06月", "monthRate": -0.19, "yearRate": -2.57, "price": 8875},
+            {"month": "2023年05月", "monthRate": -0.50, "yearRate": -2.61, "price": 8892}
+        ]
+        
+    },
+    {
+        "name": "长沙",
+        "latitude": 28.23,
+        "longitude": 112.93,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.40, "yearRate": 1.17, "price": 9629},
+            {"month": "2024年03月", "monthRate": -0.05, "yearRate": 0.79, "price": 9590},
+            {"month": "2024年02月", "monthRate": 0.04, "yearRate": 0.87, "price": 9595},
+            {"month": "2024年01月", "monthRate": 0.16, "yearRate": 0.96, "price": 9591},
+            {"month": "2023年12月", "monthRate": 0.30, "yearRate": 0.81, "price": 9575},
+            {"month": "2023年11月", "monthRate": 0.07, "yearRate": 0.54, "price": 9546},
+            {"month": "2023年10月", "monthRate": 0.21, "yearRate": 0.62, "price": 9540},
+            {"month": "2023年09月", "monthRate": -0.01, "yearRate": 0.67, "price": 9520},
+            {"month": "2023年08月", "monthRate": -0.11, "yearRate": 0.85, "price": 9521},
+            {"month": "2023年07月", "monthRate": 0.03, "yearRate": 1.29, "price": 9531},
+            {"month": "2023年06月", "monthRate": 0.04, "yearRate": 1.29, "price": 9528},
+            {"month": "2023年05月", "monthRate": 0.07, "yearRate": 1.39, "price": 9524}
+        ]
+        
+    },
+    {
+        "name": "阜阳",
+        "latitude": 32.9,
+        "longitude": 115.82,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.08, "yearRate": 0.04, "price": 7531},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": -0.07, "price": 7525},
+            {"month": "2024年02月", "monthRate": 0, "yearRate": -0.07, "price": 7525},
+            {"month": "2024年01月", "monthRate": 0, "yearRate": -0.07, "price": 7525},
+            {"month": "2023年12月", "monthRate": 0.09, "yearRate": -0.07, "price": 7525},
+            {"month": "2023年11月", "monthRate": 0, "yearRate": -0.41, "price": 7518},
+            {"month": "2023年10月", "monthRate": -0.12, "yearRate": -0.53, "price": 7518},
+            {"month": "2023年09月", "monthRate": 0.01, "yearRate": -0.41, "price": 7527},
+            {"month": "2023年08月", "monthRate": 0, "yearRate": -0.42, "price": 7526},
+            {"month": "2023年07月", "monthRate": 0, "yearRate": -0.56, "price": 7526},
+            {"month": "2023年06月", "monthRate": 0, "yearRate": -0.59, "price": 7526},
+            {"month": "2023年05月", "monthRate": -0.03, "yearRate": -0.65, "price": 7526}
+        ]
+        
+    },
+    {
+        "name": "青岛",
+        "latitude": 36.07,
+        "longitude": 120.38,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.08, "yearRate": 1.03, "price": 13896},
+            {"month": "2024年03月", "monthRate": -0.02, "yearRate": 0.95, "price": 13885},
+            {"month": "2024年02月", "monthRate": -0.02, "yearRate": 0.99, "price": 13888},
+            {"month": "2024年01月", "monthRate": 0.71, "yearRate": 0.96, "price": 13891},
+            {"month": "2023年12月", "monthRate": 0.03, "yearRate": 0.08, "price": 13793},
+            {"month": "2023年11月", "monthRate": 0.06, "yearRate": 0.02, "price": 13789},
+            {"month": "2023年10月", "monthRate": 0.13, "yearRate": -0.12, "price": 13781},
+            {"month": "2023年09月", "monthRate": 0.05, "yearRate": -0.28, "price": 13763},
+            {"month": "2023年08月", "monthRate": -0.05, "yearRate": -0.23, "price": 13756},
+            {"month": "2023年07月", "monthRate": 0.02, "yearRate": -0.25, "price": 13763},
+            {"month": "2023年06月", "monthRate": 0.01, "yearRate": -0.18, "price": 13760},
+            {"month": "2023年05月", "monthRate": 0.02, "yearRate": -0.04, "price": 13758}
+        ]
+        
+    },
+    {
+        "name": "马鞍山",
+        "latitude": 31.7,
+        "longitude": 118.5,
+        "data": [
+            {"month": "2024年04月", "monthRate": 0.56, "yearRate": 0.72, "price": 7520},
+            {"month": "2024年03月", "monthRate": 0, "yearRate": 0.17, "price": 7478},
+            {"month": "2024年02月", "monthRate": 0, "yearRate": 0.19, "price": 7478},
+            {"month": "2024年01月", "monthRate": 0.04, "yearRate": 0.20, "price": 7478},
+            {"month": "2023年12月", "monthRate": 0.01, "yearRate": 0.16, "price": 7475},
+            {"month": "2023年11月", "monthRate": 0, "yearRate": 0.13, "price": 7474},
+            {"month": "2023年10月", "monthRate": 0.03, "yearRate": 0.15, "price": 7474},
+            {"month": "2023年09月", "monthRate": 0, "yearRate": 0.12, "price": 7472},
+            {"month": "2023年08月", "monthRate": 0.03, "yearRate": 0.17, "price": 7472},
+            {"month": "2023年07月", "monthRate": 0.01, "yearRate": 0, "price": 7470},
+            {"month": "2023年06月", "monthRate": 0.01, "yearRate": -0.01, "price": 7469},
+            {"month": "2023年05月", "monthRate": 0.03, "yearRate": 0.03, "price": 7468}
+        ]
+        
+    }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "name": "三亚",
+    "latitude": 18.25,
+    "longitude": 109.5,
+    "monthRate": 0.05,
+    "yearRate": -0.42,
+    "price": 24096
+  },
+  {
+    "name": "上海",
+    "latitude": 31.2304,
+    "longitude": 121.4737,
+    "monthRate": 0.71,
+    "yearRate": 3.03,
+    "price": 52677
+  },
+  {
+    "name": "东莞",
+    "latitude": 23.0489,
+    "longitude": 113.7518,
+    "monthRate": -0.04,
+    "yearRate": -0.33,
+    "price": 19271
+  },
+  {
+    "name": "东营",
+    "latitude": 37.4613,
+    "longitude": 118.4963,
+    "monthRate": 0,
+    "yearRate": 0.02,
+    "price": 6002
+  },
+  {
+    "name": "中山",
+    "latitude": 22.5211,
+    "longitude": 113.3926,
+    "monthRate": 0.25,
+    "yearRate": -0.18,
+    "price": 10245
+  },
+  {
+    "name": "临沂",
+    "latitude": 35.0631,
+    "longitude": 118.3426,
+    "monthRate": -0.02,
+    "yearRate": -0.10,
+    "price": 9703
+  },
+  {
+    "name": "乌鲁木齐",
+    "latitude": 43.8256,
+    "longitude": 87.6168,
+    "monthRate": 0.02,
+    "yearRate": 0.32,
+    "price": 8240
+  },
+  {
+    "name": "佛山",
+    "latitude": 23.0268,
+    "longitude": 113.1347,
+    "monthRate": 0.29,
+    "yearRate": 0.54,
+    "price": 13930
+  },
+  {
+    "name": "保定",
+    "latitude": 38.8676,
+    "longitude": 115.4708,
+    "monthRate": 0.03,
+    "yearRate": -0.01,
+    "price": 8867
+  },
+  {
+    "name": "全国(百城)",
+    "latitude": 35.8617,
+    "longitude": 104.1954, 
+    "monthRate": 0.27,
+    "yearRate": 1.08,
+    "price": 16355
+  },
+  
+
+  {
+    "name": "兰州",
+    "latitude": 36.0544,
+    "longitude": 103.8204,
+    "monthRate": -0.02,
+    "yearRate": -0.52,
+    "price": 9021
+  },
+  {
+    "name": "包头",
+    "latitude": 40.6579,
+    "longitude": 109.8401,
+    "monthRate": 0,
+    "yearRate": -0.17,
+    "price": 6425
+  },
+  {
+    "name": "北京",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "monthRate": 0.51,
+    "yearRate": 1.72,
+    "price": 45489
+  },
+  {
+    "name": "北海",
+    "latitude": 21.4733,
+    "longitude": 109.1202,
+    "monthRate": -0.01,
+    "yearRate": -0.35,
+    "price": 7865
+  },
+  {
+    "name": "南京",
+    "latitude": 32.0603,
+    "longitude": 118.7969,
+    "monthRate": 0.41,
+    "yearRate": 1.85,
+    "price": 25208
+  },
+  {
+    "name": "南宁",
+    "latitude": 22.8174,
+    "longitude": 108.3333,
+    "monthRate": -0.01,
+    "yearRate": -0.25,
+    "price": 11142
+  },
+  {
+    "name": "南昌",
+    "latitude": 28.6829,
+    "longitude": 115.8582,
+    "monthRate": 0.21,
+    "yearRate": -0.32,
+    "price": 12464
+  },
+  {
+    "name": "南通",
+    "latitude": 32.0162,
+    "longitude": 120.8191,
+    "monthRate": 0.02,
+    "yearRate": 0.37,
+    "price": 14682
+  },
+  {
+    "name": "厦门",
+    "latitude": 24.4795,
+    "longitude": 118.0894,
+    "monthRate": 0.03,
+    "yearRate": -0.26,
+    "price": 29157
+  },
+  {
+    "name": "台州",
+    "latitude": 28.6688,
+    "longitude": 121.4296,
+    "monthRate": 0.60,
+    "yearRate": 0.95,
+    "price": 14014
+  },
+  {
+    "name": "合肥",
+    "latitude": 31.8257,
+    "longitude": 117.2264,
+    "monthRate": 0.54,
+    "yearRate": 1.79,
+    "price": 14212
+  },
+  {
+    "name": "呼和浩特",
+    "latitude": 40.8106,
+    "longitude": 111.6522,
+    "monthRate": 0,
+    "yearRate": -0.14,
+    "price": 8616
+  },
+  {
+    "name": "哈尔滨",
+    "latitude": 45.8038,
+    "longitude": 126.5327,
+    "monthRate": 0,
+    "yearRate": -1.13,
+    "price": 9078
+  },
+  {
+    "name": "唐山",
+    "latitude": 39.6337,
+    "longitude": 118.1809,
+    "monthRate": 0.13,
+    "yearRate": -0.12,
+    "price": 8584
+  },
+  {
+    "name": "嘉兴",
+    "latitude": 30.7627,
+    "longitude": 120.7538,
+    "monthRate": -0.02,
+    "yearRate": 0.52,
+    "price": 13533
+  },
+  {
+    "name": "大连",
+    "latitude": 38.9140,
+    "longitude": 121.6147,
+    "monthRate": -0.05,
+    "yearRate": -1.46,
+    "price": 13547
+  },
+  {
+    "name": "天津",
+    "latitude": 39.3434,
+    "longitude": 117.3616,
+    "monthRate": -0.01,
+    "yearRate": 1.27,
+    "price": 15103
+  },
+  {
+    "name": "太原",
+    "latitude": 37.8706,
+    "longitude": 112.5481,
+    "monthRate": 0.02,
+    "yearRate": 0.07,
+    "price": 10041
+  },
+  {
+    "name": "威海",
+    "latitude": 37.5097,
+    "longitude": 122.1136,
+    "monthRate": 0,
+    "yearRate": -0.05,
+    "price": 8801
+  },
+  {
+    "name": "宁波",
+    "latitude": 29.8711,
+    "longitude": 121.5498,
+    "monthRate": 0.09,
+    "yearRate": 1.29,
+    "price": 20139
+  },
+  {
+    "name": "宜昌",
+    "latitude": 30.7327,
+    "longitude": 111.2858,
+    "monthRate": 0,
+    "yearRate": -0.05,
+    "price": 7773
+  },
+  {
+    "name": "宿迁",
+    "latitude": 33.9625,
+    "longitude": 118.3052,
+    "monthRate": 0,
+    "yearRate": 0.02,
+    "price": 5677
+  },
+  {
+    "name": "常州",
+    "latitude": 31.7713,
+    "longitude": 119.8742,
+    "monthRate": 0.03,
+    "yearRate": 0.18,
+    "price": 13001
+  },
+  {
+    "name": "常熟",
+    "latitude": 31.6513,
+    "longitude": 120.7523,
+    "monthRate": 0,
+    "yearRate": 0,
+    "price": 15260
+  },
+  {
+    "name": "广州",
+    "latitude": 23.1291,
+    "longitude": 113.2644,
+    "monthRate": -0.06,
+    "yearRate": 0.29,
+    "price": 24692
+  },
+  {
+    "name": "廊坊",
+    "latitude": 39.5186,
+    "longitude": 116.7167,
+    "monthRate": 0,
+    "yearRate": 0.19,
+    "price": 11641
+  },
+  {
+    "name": "张家口",
+    "latitude": 40.8277,
+    "longitude": 114.8778,
+    "monthRate": -0.01,
+    "yearRate": 0,
+    "price": 8322
+  },
+  {
+    "name": "张家港",
+    "latitude": 31.8753,
+    "longitude": 120.5553,
+    "monthRate": 0,
+    "yearRate": 0.10,
+    "price": 11004
+  },
+  {
+    "name": "徐州",
+    "latitude": 34.2046,
+    "longitude": 117.2934,
+    "monthRate": 0.01,
+    "yearRate": -0.51,
+    "price": 9834
+  },
+
+    {
+      "name": "株洲",
+      "latitude": 27.8333,
+      "longitude": 113.1333,
+      "monthRate": 0,
+      "yearRate": -0.43,
+      "price": 6001
+    },
+    {
+      "name": "桂林",
+      "latitude": 25.2819,
+      "longitude": 110.2863,
+      "monthRate": 0,
+      "yearRate": -0.36,
+      "price": 6446
+    },
+    {
+      "name": "武汉",
+      "latitude": 30.5928,
+      "longitude": 114.3055,
+      "monthRate": -0.01,
+      "yearRate": -0.05,
+      "price": 13215
+    },
+    {
+      "name": "汕头",
+      "latitude": 23.3541,
+      "longitude": 116.6822,
+      "monthRate": -0.04,
+      "yearRate": -0.29,
+      "price": 10708
+    },
+    {
+      "name": "江门",
+      "latitude": 22.5836,
+      "longitude": 113.0816,
+      "monthRate": -0.02,
+      "yearRate": -0.14,
+      "price": 8336
+    },
+    {
+      "name": "江阴",
+      "latitude": 31.9196,
+      "longitude": 120.2842,
+      "monthRate": 0,
+      "yearRate": 0.05,
+      "price": 10553
+    },
+    {
+      "name": "沈阳",
+      "latitude": 41.8057,
+      "longitude": 123.4315,
+      "monthRate": -0.01,
+      "yearRate": -0.70,
+      "price": 9795
+    },
+    {
+      "name": "泉州",
+      "latitude": 24.8741,
+      "longitude": 118.6759,
+      "monthRate": 0.53,
+      "yearRate": 1.03,
+      "price": 8942
+    },
+    {
+      "name": "泰州",
+      "latitude": 32.4558,
+      "longitude": 119.9231,
+      "monthRate": -0.11,
+      "yearRate": -0.08,
+      "price": 8313
+    },
+    {
+      "name": "洛阳",
+      "latitude": 34.6197,
+      "longitude": 112.4540,
+      "monthRate": 0,
+      "yearRate": -0.52,
+      "price": 8025
+    },
+    {
+      "name": "济南",
+      "latitude": 36.6512,
+      "longitude": 117.1201,
+      "monthRate": 0.06,
+      "yearRate": 0.22,
+      "price": 11956
+    },
+    {
+      "name": "济宁",
+      "latitude": 35.4140,
+      "longitude": 116.5872,
+      "monthRate": 0,
+      "yearRate": -0.55,
+      "price": 8014
+    },
+    {
+      "name": "海口",
+      "latitude": 20.0440,
+      "longitude": 110.1999,
+      "monthRate": 0,
+      "yearRate": 1.25,
+      "price": 15426
+    },
+    {
+      "name": "淄博",
+      "latitude": 36.8135,
+      "longitude": 118.0550,
+      "monthRate": -0.03,
+      "yearRate": 0.04,
+      "price": 7822
+    },
+    {
+      "name": "淮安",
+      "latitude": 33.6100,
+      "longitude": 119.0153,
+      "monthRate": 0,
+      "yearRate": 0.41,
+      "price": 6335
+    },
+    {
+      "name": "深圳",
+      "latitude": 22.5431,
+      "longitude": 114.0579,
+      "monthRate": 0.52,
+      "yearRate": -1.44,
+      "price": 53186
+    },
+    {
+      "name": "温州",
+      "latitude": 27.9949,
+      "longitude": 120.6994,
+      "monthRate": -0.03,
+      "yearRate": -0.72,
+      "price": 18736
+    },
+    {
+      "name": "湖州",
+      "latitude": 30.8943,
+      "longitude": 120.0868,
+      "monthRate": 0.01,
+      "yearRate": -0.22,
+      "price": 11248
+    },
+    {
+      "name": "湘潭",
+      "latitude": 27.8280,
+      "longitude": 112.9356,
+      "monthRate": 0,
+      "yearRate": -1.03,
+      "price": 5274
+    },
+    {
+      "name": "湛江",
+      "latitude": 21.2713,
+      "longitude": 110.3589,
+      "monthRate": -0.07,
+      "yearRate": -0.78,
+      "price": 10113
+    },
+    {
+      "name": "漳州",
+      "latitude": 24.5135,
+      "longitude": 117.6470,
+      "monthRate": -0.16,
+      "yearRate": -0.53,
+      "price": 10978
+    },
+    {
+      "name": "潍坊",
+      "latitude": 36.7069,
+      "longitude": 119.1618,
+      "monthRate": 0.01,
+      "yearRate": -0.09,
+      "price": 6746
+    },
+    {
+      "name": "烟台",
+      "latitude": 37.4638,
+      "longitude": 121.4479,
+      "monthRate": -0.09,
+      "yearRate": -0.95,
+      "price": 9140
+    },
+    {
+      "name": "珠海",
+      "latitude": 22.2700,
+      "longitude": 113.5767,
+      "monthRate": -0.30,
+      "yearRate": -0.82,
+      "price": 21380
+    },
+    {
+      "name": "盐城",
+      "latitude": 33.3551,
+      "longitude": 120.1636,
+      "monthRate": -0.04,
+      "yearRate": -0.96,
+      "price": 8488
+    },
+    {
+      "name": "石家庄",
+      "latitude": 38.0428,
+      "longitude": 114.5149,
+      "monthRate": 0.43,
+      "yearRate": 1.13,
+      "price": 11955
+    },
+    {
+      "name": "福州",
+      "latitude": 26.0745,
+      "longitude": 119.2965,
+      "monthRate": 0.11,
+      "yearRate": -0.16,
+      "price": 17135
+    },
+    {
+      "name": "秦皇岛",
+      "latitude": 39.9354,
+      "longitude": 119.6005,
+      "monthRate": -0.06,
+      "yearRate": -0.14,
+      "price": 9560
+    },
+    {
+      "name": "绍兴",
+      "latitude": 30.0298,
+      "longitude": 120.5784,
+      "monthRate": 0.36,
+      "yearRate": 0.51,
+      "price": 16292
+    },
+    {
+      "name": "绵阳",
+      "latitude": 31.4675,
+      "longitude": 104.6796,
+      "monthRate": 0,
+      "yearRate": 0.06,
+      "price": 6950
+    },
+    {
+      "name": "聊城",
+      "latitude": 36.4560,
+      "longitude": 115.9855,
+      "monthRate": 0.14,
+      "yearRate": 0.18,
+      "price": 6775
+    },
+    {
+      "name": "肇庆",
+      "latitude": 23.0469,
+      "longitude": 112.4651,
+      "monthRate": -0.01,
+      "yearRate": -0.27,
+      "price": 6965
+    },
+    {
+      "name": "芜湖",
+      "latitude": 31.3525,
+      "longitude": 118.4333,
+      "monthRate": 0,
+      "yearRate": -0.49,
+      "price": 8397
+    },
+    {
+      "name": "苏州",
+      "latitude": 31.2989,
+      "longitude": 120.5853,
+      "monthRate": -0.18,
+      "yearRate": 0.95,
+      "price": 18572
+    },
+  
+    
+      {
+        "name": "菏泽",
+        "latitude": 35.23,
+        "longitude": 115.45,
+        "monthRate": -0.02,
+        "yearRate": -0.20,
+        "price": 5418
+      },
+      {
+        "name": "衡水",
+        "latitude": 37.74,
+        "longitude": 115.69,
+        "monthRate": -0.03,
+        "yearRate": -0.27,
+        "price": 6533
+      },
+      {
+        "name": "西宁",
+        "latitude": 36.62,
+        "longitude": 101.77,
+        "monthRate": 0,
+        "yearRate": 0.07,
+        "price": 7509
+      },
+      {
+        "name": "西安",
+        "latitude": 34.35,
+        "longitude": 108.97,
+        "monthRate": 0.62,
+        "yearRate": 2.82,
+        "price": 12532
+      },
+      {
+        "name": "贵阳",
+        "latitude": 26.58,
+        "longitude": 106.72,
+        "monthRate": 0.27,
+        "yearRate": 0,
+        "price": 6974
+      },
+      {
+        "name": "赣州",
+        "latitude": 25.83,
+        "longitude": 114.94,
+        "monthRate": 0,
+        "yearRate": 0.33,
+        "price": 8274
+      },
+      {
+        "name": "连云港",
+        "latitude": 34.6,
+        "longitude": 119.22,
+        "monthRate": 0.23,
+        "yearRate": 0.40,
+        "price": 7789
+      },
+      {
+        "name": "邯郸",
+        "latitude": 36.62,
+        "longitude": 114.54,
+        "monthRate": -0.04,
+        "yearRate": -0.33,
+        "price": 6952
+      },
+      {
+        "name": "郑州",
+        "latitude": 34.76,
+        "longitude": 113.65,
+        "monthRate": 0.45,
+        "yearRate": 0.53,
+        "price": 12346
+      },
+      {
+        "name": "重庆",
+        "latitude": 29.57,
+        "longitude": 106.55,
+        "monthRate": -0.10,
+        "yearRate": -0.61,
+        "price": 11648
+      },
+      {
+        "name": "金华",
+        "latitude": 29.12,
+        "longitude": 119.65,
+        "monthRate": 0.03,
+        "yearRate": 0.46,
+        "price": 12832
+      },
+      {
+        "name": "银川",
+        "latitude": 38.47,
+        "longitude": 106.27,
+        "monthRate": -0.03,
+        "yearRate": 0.37,
+        "price": 6708
+      },
+      {
+        "name": "镇江",
+        "latitude": 32.2,
+        "longitude": 119.47,
+        "monthRate": 0.01,
+        "yearRate": -0.28,
+        "price": 9413
+      },
+      {
+        "name": "长春",
+        "latitude": 43.83,
+        "longitude": 125.35,
+        "monthRate": -0.29,
+        "yearRate": -2.38,
+        "price": 8724
+      },
+      {
+        "name": "长沙",
+        "latitude": 28.23,
+        "longitude": 112.93,
+        "monthRate": 0.40,
+        "yearRate": 1.17,
+        "price": 9629
+      },
+      {
+        "name": "阜阳",
+        "latitude": 32.9,
+        "longitude": 115.82,
+        "monthRate": 0.08,
+        "yearRate": 0.04,
+        "price": 7531
+      },
+      {
+        "name": "青岛",
+        "latitude": 36.07,
+        "longitude": 120.38,
+        "monthRate": 0.08,
+        "yearRate": 1.03,
+        "price": 13896
+      },
+      {
+        "name": "马鞍山",
+        "latitude": 31.7,
+        "longitude": 118.5,
+        "monthRate": 0.56,
+        "yearRate": 0.72,
+        "price": 7520
+      }
+    ]
+    
+  
