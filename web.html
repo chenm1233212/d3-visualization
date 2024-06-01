@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>各个城市新建住宅价格</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        #legend {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 10px;
+            border: 1px solid black;
+            z-index: 10;
+        }
+
+        .color-indicator {
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 5px;
+            border-radius: 50%;
+        }
+
+        #map {
+            width: 100%;
+            height: 80vh;
+        }
+
+        .province {
+            stroke: #fff;
+            stroke-width: 0.3px;
+            fill: steelblue;
+        }
+
+        .city {
+            stroke: #000;
+            stroke-width: 0.5px;
+        }
+
+        .highlight {
+            fill: orange;
+            stroke: red;
+            stroke-width: 2px;
+        }
+
+        .link {
+            stroke: red;
+            stroke-width: 0.1px;
+        }
+
+        #tooltip {
+            position: absolute;
+            background: white;
+            border: 1px solid black;
+            padding: 5px;
+            pointer-events: none;
+            visibility: hidden;
+        }
+
+        #controls {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            background: white;
+            padding: 10px;
+            border: 1px solid black;
+            z-index: 10;
+        }
+
+        text {
+            font-size: 12px;
+            fill: #000;
+        }
+
+        #Chart {
+            position: fixed;
+            right: 10px;
+            bottom: 10px;
+            margin-bottom: 150px;
+            margin-right: 150px;
+            height: 300px;
+            width: 600px;
+            z-index: 10;
+        }
+    </style>
+    <style>
+        /* Add any CSS styles if needed */
+        .bar {
+            fill: steelblue;
+        }
+
+        .bar:hover {
+            fill: orange;
+        }
+
+        .line {
+            fill: none;
+            stroke: red;
+            stroke-width: 2px;
+        }
+
+        .axis-x text {
+            font: 10px sans-serif;
+            transform: rotate(-45deg);
+            text-anchor: end;
+        }
+
+        .axis-y text {
+            font: 10px sans-serif;
+        }
+
+        .axis-y-right text {
+            font: 10px sans-serif;
+            fill: green;
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .LineState {
+            position: absolute;
+            right: 100px;
+        }
+
+        .btn {
+            position: absolute;
+            right: 0;
+            top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 图标说明部分 -->
+    <div id="legend">
+        <h3>说明：颜色深浅表示变化大小</h3>
+
+        <div class="legend-item">
+            <div class="color-indicator"
+                style="background-color: black; border: 1px solid black; width: 20px; height: 20px;"></div>
+            同比减少
+        </div>
+        <div class="legend-item">
+            <div class="color-indicator"
+                style="background-color: white; border: 1px solid black; width: 20px; height: 20px;"></div>
+            同比增加
+        </div>
+
+        <h3>城市点大小：</h3>
+        <div>平均价格越高，城市点越大</div>
+    </div>
+
+    <div id="map"></div>
+    <div id="tooltip"></div> <!-- 用于显示信息的div -->
+
+    <div id="controls">
+        <label for="priceFilter">价格过滤:</label>
+        <input type="range" id="priceFilter" name="priceFilter" min="0" max="100000" step="1000">
+        <span id="priceValue">0</span>元/㎡
+        <br>
+        <label for="monthRateFilter">环比涨跌率过滤:</label>
+        <input type="range" id="monthRateFilter" name="monthRateFilter" min="-10" max="10" step="0.1">
+        <span id="monthRateValue">0</span>%
+        <br>
+        <label for="searchCity">搜索城市:</label>
+        <input type="text" id="searchCity" name="searchCity">
+        <button id="searchButton">搜索</button>
+
+    </div>
+
+    <div id="Chart">
+        <div class="container">
+            <h3 id="cityname">点击城市查看更多信息</h3>
+            <div class="LineState">
+                <svg width="200" height="60">
+                    <line x1="100" y1="25" x2="130" y2="25" stroke="red" stroke-width="2" />
+                    <line x1="100" y1="45" x2="130" y2="45" stroke="green" stroke-width="2" />
+                    <text x="0" y="30" fill="red">环比涨跌率（%）</text>
+                    <text x="0" y="50" fill="green">同比涨跌率（%）</text>
+                </svg>
+            </div>
+            <div class="btn">
+                <button id="exportButton">导出数据</button>
+            </div>
+        </div>
+        <div id="chart"></div>
+    </div>
+
+    <script>
+        const width = 1200;
+        const height = 800;
+
+        const svg = d3.select("#map")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        const projection = d3.geoMercator()
+            .scale(150)
+            .translate([width / 2, height / 2]);
+
+        const pathGenerator = d3.geoPath()
+            .projection(projection);
+
+        const g = svg.append("g");
+
+        // 同比涨跌率颜色比例尺
+        let yearRateColorScale = d3.scaleLinear()
+            .range([d3.rgb("black"), d3.rgb("white")])
+            .domain([-1, 1]);
+
+        const tooltip = d3.select("#tooltip");
+
+        let cityData;
+
+        // 加载中国地图
+        d3.json("china-provinces.geojson").then(function(chinaMapData) {
+            g.selectAll("path.province")
+              .data(chinaMapData.features)
+              .enter()
+              .append("path")
+              .attr("class", "province")
+              .attr("d", pathGenerator);
+
+            // 搜索城市数据
+            d3.json("china-cities.geojson").then(function (cities) {
+                cityData = cities;
+                updateCities();
+
+                d3.select("#priceFilter").on("input", function () {
+                    d3.select("#priceValue").text(this.value);
+                    updateCities();
+                });
+
+                d3.select("#monthRateFilter").on("input", function () {
+                    d3.select("#monthRateValue").text(this.value);
+                    updateCities();
+                });
+
+                d3.select("#searchButton").on("click", function () {
+                    const cityName = d3.select("#searchCity").property("value");
+                    searchCity(cityName);
+                });
+            });
+        });
+
+
+        //读取json文件
+        function loadCityData(cityName) {
+            d3.json("data.json").then(function (jsonData) {
+                const cityData = jsonData.find(city => city.name === cityName).data;
+                drawChart(cityData);
+            }).catch(function (error) {
+                console.error("Error loading the JSON file:", error);
+            });
+        }
+
+        //绘制当前城市房价表格
+        function drawChart(cityData) {
+
+            d3.select("#chart").html("");
+
+            const margin = { top: 20, right: 80, bottom: 60, left: 50 },
+                width = 800 - margin.left - margin.right,
+                height = 400 - margin.top - margin.bottom;
+
+            const svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            // X 
+            const x = d3.scaleBand()
+                .range([0, width])
+                .domain(cityData.map(d => d.month))
+                .padding(0.1);
+            svg.append("g")
+                .attr("class", "axis-x")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x).tickFormat((d, i) => cityData[cityData.length - 1 - i].month))
+                .selectAll("text")
+                .style("text-anchor", "end");
+
+            // 价格的Y 
+            const yPrice = d3.scaleLinear()
+                .domain([0, 60000])
+                .range([height, 0]);
+            svg.append("g")
+                .attr("class", "axis-y")
+                .call(d3.axisLeft(yPrice));
+
+            svg.selectAll(".bar")
+                .data(cityData)
+                .enter()
+                .append("rect")
+                .attr("class", "bar")
+                .attr("x", d => x(d.month))
+                .attr("width", x.bandwidth())
+                .attr("y", d => yPrice(d.price))
+                .attr("height", d => height - yPrice(d.price));
+
+            // 涨跌率的Y
+            const yRate = d3.scaleLinear()
+                .domain([d3.min(cityData, d => Math.min(d.monthRate, d.yearRate)),
+                d3.max(cityData, d => Math.max(d.monthRate, d.yearRate))])
+                .range([height, 0]);
+            svg.append("g")
+                .attr("class", "axis-y-right")
+                .attr("transform", "translate(" + width + ", 0)")
+                .call(d3.axisRight(yRate));
+
+            const lineMonthRate = d3.line()
+                .x(d => x(d.month) + x.bandwidth() / 2)
+                .y(d => yRate(d.monthRate));
+            svg.append("path")
+                .datum(cityData)
+                .attr("class", "line")
+                .attr("d", lineMonthRate);
+
+            const lineYearRate = d3.line()
+                .x(d => x(d.month) + x.bandwidth() / 2)
+                .y(d => yRate(d.yearRate));
+            svg.append("path")
+                .datum(cityData)
+                .attr("class", "line")
+                .style("stroke", "green")
+                .attr("d", lineYearRate);
+        }
+
+        function updateCities() {
+            const minPrice = +d3.select("#priceFilter").property("value");
+            const maxMonthRate = +d3.select("#monthRateFilter").property("value");
+
+            const cities = g.selectAll("circle.city")
+                .data(cityData.filter(d => d.price >= minPrice && d.monthRate <= maxMonthRate), d => d.name);
+
+            cities.enter()
+                .append("circle")
+                .attr("class", "city")
+                .attr("cx", d => projection([d.longitude, d.latitude])[0])
+                .attr("cy", d => projection([d.longitude, d.latitude])[1])
+                .attr("r", d => Math.sqrt(d.price / 10000) / 2)
+                .style("fill", d => yearRateColorScale(d.yearRate))
+                .on("mouseover", (event, d) => {
+                    tooltip.style("visibility", "visible")
+                        .style("top", (event.pageY - 10) + "px")
+                        .style("left", (event.pageX + 10) + "px")
+                        .html(`城市: ${d.name}<br>环比涨跌: ${d.monthRate}%<br>同比涨跌: ${d.yearRate}%<br>样本平均价格: ${d.price}元/㎡`);
+                })
+                .on("mouseout", () => {
+                    tooltip.style("visibility", "hidden");
+                })
+                .on("click", (event, d) => {
+                    highlightCity(d);
+                    loadCityData(d.name);
+                    clickCity(d);
+                });
+
+            cities.exit().remove();
+        }
+
+        function highlightCity(selectedCity) {
+            g.selectAll("circle.city").classed("highlight", false); // 移除高亮
+            g.selectAll("circle.city").filter(d => d.name === selectedCity.name).classed("highlight", true);
+
+            const relatedCities = getRelatedCities(selectedCity);
+            g.selectAll("circle.city").filter(d => relatedCities.includes(d.name)).classed("highlight", true);
+
+            g.selectAll("line.link").remove();
+            relatedCities.forEach(cityName => {
+                const city = cityData.find(d => d.name === cityName);
+                g.append("line")
+                    .attr("class", "link")
+                    .attr("x1", projection([selectedCity.longitude, selectedCity.latitude])[0])
+                    .attr("y1", projection([selectedCity.longitude, selectedCity.latitude])[1])
+                    .attr("x2", projection([city.longitude, city.latitude])[0])
+                    .attr("y2", projection([city.longitude, city.latitude])[1]);
+            });
+        }
+
+        function clickCity(city) {
+            const cityName = city.name;
+            const cityPrice = city.price;
+            d3.select("#cityname").text(`${cityName} 的房价详情：${cityPrice}元/㎡`);
+            highlightCity(city);
+            loadCityData(cityName);
+        }
+
+
+        function getRelatedCities(selectedCity) {
+            const threshold = 0.1;
+            return cityData.filter(d => Math.abs(d.yearRate - selectedCity.yearRate) < threshold && d.name !== selectedCity.name).map(d => d.name);
+        }
+
+        function searchCity(cityName) {
+            const city = cityData.find(d => d.name === cityName);
+            if (city) {
+
+                highlightCity(city);
+                const [x, y] = projection([city.longitude, city.latitude]);
+                svg.transition().duration(750).call(
+                    zoom.transform,
+                    d3.zoomIdentity.translate(width / 2, height / 2).scale(4).translate(-x, -y)
+                );
+            }
+        }
+
+        // 创建缩放行为
+        const zoom = d3.zoom()
+            .scaleExtent([1, 8])
+            .on('zoom', (event) => {
+                g.attr('transform', event.transform);
+            });
+
+        svg.call(zoom);
+
+        // 导出数据为 CSV 文件
+        function exportDataToCSV(data, cityName) {
+            d3.json("data.json").then(function (jsonData) {
+                const cityData = jsonData.find(city => city.name === cityName).data;
+
+                const city = data.find(d => d.name === cityName);
+                const csvContent = "data:text/csv;charset=utf-8,";
+                const headers = "month,monthRate,yearRate,price"; 
+                const rows = cityData.map(d => `${d.month},${d.monthRate},${d.yearRate},${d.price}`); // 将每行数据转换为逗号分隔的字符串
+
+                const csv = headers + '\n' + rows.join('\n');
+
+                // 创建一个链接并设置其 href 属性为 CSV 数据
+                const encodedUri = encodeURI(csvContent + csv);
+                const link = document.createElement('a');
+
+                // 设置文件名为城市名.csv
+                link.setAttribute('href', encodedUri);
+                link.setAttribute('download', `${cityName}.csv`);
+
+                document.body.appendChild(link); 
+                link.click();
+
+                document.body.removeChild(link);
+            }
+            ).catch(function (error) {
+                console.error("Error loading the JSON file:", error);
+            });
+        }
+
+            // 当用户点击按钮时所选城市的名称作为参数
+            document.getElementById('exportButton').addEventListener('click', function () {
+                const selectedCityName = d3.select("#cityname").text().split(' ')[0];
+                exportDataToCSV(cityData, selectedCityName);
+            });
+
+
+    </script>
+</body>
+
+</html>
